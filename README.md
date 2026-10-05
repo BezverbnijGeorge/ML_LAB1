@@ -34,6 +34,15 @@ python evaluate_model.py
 | `year` | рік першої реєстрації |
 | `defect_rate` | кількість поломок на 1000 авто |
 
+Переклад назв авто з німецької 
+| Німецькою | Українською | Сегмент | Приклади з датасету |
+|---|---|---|---|
+| `Kleinstwagen` | особливо малий клас (мікроавто) | A | Fiat 500, Toyota Aygo, smart fortwo |
+| `Kleinwagen` | малий клас | B | Toyota Yaris, Ford Fiesta |
+| `Untere Mittelklasse` | нижчий середній (компактний) клас | C | Toyota Corolla, Opel Astra |
+| `Mittelklasse` | середній клас | D | VW Passat, Audi A4, BMW 3er-Reihe |
+| `Obere Mittelklasse` | вищий середній (бізнес) клас | E | Audi A6, BMW 5er-Reihe, Mercedes-Benz E-Klasse |
+| `Vans/Transporter` | великі фургони | — | Ford Transit, Fiat Ducato, Mercedes-Benz Sprinter |
 
 
 ### `convert_data.py`
