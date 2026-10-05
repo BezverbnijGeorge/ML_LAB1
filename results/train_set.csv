@@ -1,0 +1,771 @@
+row_id,age_years,vehicle_class,origin_group,is_high_risk
+0,2,Kleinstwagen,Renault_Dacia_Nissan,0
+1,3,Kleinstwagen,Renault_Dacia_Nissan,0
+2,2,Kleinstwagen,Stellantis,0
+3,3,Kleinstwagen,Stellantis,0
+4,4,Kleinstwagen,Stellantis,0
+5,5,Kleinstwagen,Stellantis,0
+7,7,Kleinstwagen,Stellantis,1
+8,8,Kleinstwagen,Stellantis,1
+10,2,Kleinstwagen,Korean,0
+11,3,Kleinstwagen,Korean,0
+12,4,Kleinstwagen,Korean,0
+13,5,Kleinstwagen,Korean,0
+14,6,Kleinstwagen,Korean,1
+15,7,Kleinstwagen,Korean,1
+16,8,Kleinstwagen,Korean,1
+17,9,Kleinstwagen,Korean,0
+18,2,Kleinstwagen,Korean,0
+19,3,Kleinstwagen,Korean,0
+21,5,Kleinstwagen,Korean,0
+22,6,Kleinstwagen,Korean,1
+24,8,Kleinstwagen,Korean,0
+25,9,Kleinstwagen,Korean,1
+26,6,Kleinstwagen,Stellantis,0
+27,7,Kleinstwagen,Stellantis,0
+28,8,Kleinstwagen,Stellantis,0
+29,9,Kleinstwagen,Stellantis,1
+31,3,Kleinstwagen,Renault_Dacia_Nissan,0
+32,4,Kleinstwagen,Renault_Dacia_Nissan,0
+33,5,Kleinstwagen,Renault_Dacia_Nissan,1
+34,6,Kleinstwagen,Renault_Dacia_Nissan,1
+35,7,Kleinstwagen,Renault_Dacia_Nissan,0
+36,8,Kleinstwagen,Renault_Dacia_Nissan,1
+37,9,Kleinstwagen,Renault_Dacia_Nissan,1
+38,6,Kleinstwagen,VAG,0
+39,7,Kleinstwagen,VAG,0
+40,8,Kleinstwagen,VAG,0
+41,9,Kleinstwagen,VAG,1
+42,2,Kleinstwagen,Japanese,0
+46,7,Kleinstwagen,Japanese,0
+47,8,Kleinstwagen,Japanese,0
+48,2,Kleinstwagen,Japanese,0
+49,3,Kleinstwagen,Japanese,0
+50,4,Kleinstwagen,Japanese,0
+52,6,Kleinstwagen,Japanese,0
+53,7,Kleinstwagen,Japanese,0
+54,8,Kleinstwagen,Japanese,0
+55,9,Kleinstwagen,Japanese,0
+56,2,Kleinstwagen,VAG,0
+57,3,Kleinstwagen,VAG,0
+58,4,Kleinstwagen,VAG,0
+60,6,Kleinstwagen,VAG,0
+61,7,Kleinstwagen,VAG,0
+62,8,Kleinstwagen,VAG,0
+63,9,Kleinstwagen,VAG,1
+65,6,Kleinstwagen,MB_Group,1
+66,7,Kleinstwagen,MB_Group,1
+67,8,Kleinstwagen,MB_Group,1
+68,9,Kleinstwagen,MB_Group,1
+69,2,Kleinstwagen,MB_Group,0
+70,3,Kleinstwagen,MB_Group,0
+72,5,Kleinstwagen,MB_Group,0
+73,6,Kleinstwagen,MB_Group,1
+74,7,Kleinstwagen,MB_Group,1
+76,9,Kleinstwagen,MB_Group,1
+77,2,Kleinwagen,VAG,0
+78,3,Kleinwagen,VAG,0
+80,5,Kleinwagen,VAG,0
+81,6,Kleinwagen,VAG,0
+82,7,Kleinwagen,VAG,0
+86,4,Kleinwagen,BMW_Group,0
+87,5,Kleinwagen,BMW_Group,0
+88,2,Kleinwagen,Stellantis,0
+89,5,Kleinwagen,Stellantis,0
+90,6,Kleinwagen,Stellantis,0
+91,7,Kleinwagen,Stellantis,0
+92,8,Kleinwagen,Stellantis,1
+94,2,Kleinwagen,Renault_Dacia_Nissan,0
+95,3,Kleinwagen,Renault_Dacia_Nissan,0
+96,4,Kleinwagen,Renault_Dacia_Nissan,0
+98,6,Kleinwagen,Renault_Dacia_Nissan,0
+99,7,Kleinwagen,Renault_Dacia_Nissan,0
+100,8,Kleinwagen,Renault_Dacia_Nissan,0
+101,9,Kleinwagen,Renault_Dacia_Nissan,1
+102,8,Kleinwagen,Ford_Europe,1
+103,9,Kleinwagen,Ford_Europe,1
+104,3,Kleinwagen,Ford_Europe,0
+105,4,Kleinwagen,Ford_Europe,0
+106,5,Kleinwagen,Ford_Europe,1
+108,7,Kleinwagen,Ford_Europe,0
+109,8,Kleinwagen,Ford_Europe,1
+110,9,Kleinwagen,Ford_Europe,1
+111,2,Kleinwagen,Ford_Europe,0
+112,3,Kleinwagen,Ford_Europe,0
+113,4,Kleinwagen,Ford_Europe,1
+114,5,Kleinwagen,Ford_Europe,0
+115,6,Kleinwagen,Ford_Europe,0
+117,8,Kleinwagen,Ford_Europe,1
+119,2,Kleinwagen,Ford_Europe,0
+120,3,Kleinwagen,Ford_Europe,0
+122,5,Kleinwagen,Ford_Europe,1
+123,2,Kleinwagen,Korean,0
+124,3,Kleinwagen,Korean,0
+125,4,Kleinwagen,Korean,0
+126,5,Kleinwagen,Korean,0
+128,7,Kleinwagen,Korean,0
+129,2,Kleinwagen,Korean,0
+130,3,Kleinwagen,Korean,0
+131,4,Kleinwagen,Korean,1
+132,5,Kleinwagen,Korean,0
+135,8,Kleinwagen,Korean,1
+136,9,Kleinwagen,Korean,1
+137,6,Kleinwagen,Korean,1
+138,8,Kleinwagen,Korean,1
+139,9,Kleinwagen,Korean,1
+140,2,Kleinwagen,BMW_Group,0
+142,4,Kleinwagen,BMW_Group,0
+144,6,Kleinwagen,BMW_Group,0
+145,7,Kleinwagen,BMW_Group,0
+146,8,Kleinwagen,BMW_Group,1
+147,9,Kleinwagen,BMW_Group,1
+148,2,Kleinwagen,Japanese,0
+149,6,Kleinwagen,Japanese,0
+150,7,Kleinwagen,Japanese,0
+151,8,Kleinwagen,Japanese,0
+153,6,Kleinwagen,Japanese,0
+154,7,Kleinwagen,Japanese,0
+155,8,Kleinwagen,Japanese,0
+156,9,Kleinwagen,Japanese,0
+157,2,Kleinwagen,Japanese,0
+158,3,Kleinwagen,Japanese,0
+159,4,Kleinwagen,Japanese,0
+162,7,Kleinwagen,Japanese,0
+163,8,Kleinwagen,Japanese,0
+164,9,Kleinwagen,Japanese,1
+165,5,Kleinwagen,Renault_Dacia_Nissan,0
+166,6,Kleinwagen,Renault_Dacia_Nissan,1
+167,7,Kleinwagen,Renault_Dacia_Nissan,1
+168,8,Kleinwagen,Renault_Dacia_Nissan,1
+170,2,Kleinwagen,Stellantis,0
+171,3,Kleinwagen,Stellantis,0
+172,4,Kleinwagen,Stellantis,0
+174,6,Kleinwagen,Stellantis,0
+175,7,Kleinwagen,Stellantis,0
+176,8,Kleinwagen,Stellantis,1
+177,9,Kleinwagen,Stellantis,1
+178,2,Kleinwagen,Stellantis,0
+180,4,Kleinwagen,Stellantis,0
+181,5,Kleinwagen,Stellantis,0
+183,7,Kleinwagen,Stellantis,0
+184,8,Kleinwagen,Stellantis,0
+186,9,Kleinwagen,Stellantis,1
+187,2,Kleinwagen,Stellantis,0
+189,4,Kleinwagen,Stellantis,0
+190,6,Kleinwagen,Stellantis,1
+191,7,Kleinwagen,Stellantis,1
+194,2,Kleinwagen,Stellantis,0
+195,3,Kleinwagen,Stellantis,0
+196,4,Kleinwagen,Stellantis,0
+198,6,Kleinwagen,Stellantis,0
+201,9,Kleinwagen,Stellantis,1
+202,2,Kleinwagen,Stellantis,0
+203,3,Kleinwagen,Stellantis,0
+204,4,Kleinwagen,Stellantis,0
+205,5,Kleinwagen,Stellantis,0
+207,7,Kleinwagen,Stellantis,0
+208,8,Kleinwagen,Stellantis,0
+209,9,Kleinwagen,Stellantis,1
+210,2,Kleinwagen,Renault_Dacia_Nissan,0
+213,5,Kleinwagen,Renault_Dacia_Nissan,1
+215,7,Kleinwagen,Renault_Dacia_Nissan,1
+216,8,Kleinwagen,Renault_Dacia_Nissan,1
+217,9,Kleinwagen,Renault_Dacia_Nissan,1
+218,3,Kleinwagen,Renault_Dacia_Nissan,0
+219,4,Kleinwagen,Renault_Dacia_Nissan,0
+220,5,Kleinwagen,Renault_Dacia_Nissan,0
+221,6,Kleinwagen,Renault_Dacia_Nissan,0
+222,7,Kleinwagen,Renault_Dacia_Nissan,0
+223,2,Kleinwagen,VAG,0
+225,4,Kleinwagen,VAG,0
+226,5,Kleinwagen,VAG,0
+227,6,Kleinwagen,VAG,0
+228,7,Kleinwagen,VAG,0
+230,3,Kleinwagen,VAG,0
+231,4,Kleinwagen,VAG,0
+232,5,Kleinwagen,VAG,0
+233,6,Kleinwagen,VAG,0
+234,7,Kleinwagen,VAG,0
+235,8,Kleinwagen,VAG,0
+239,4,Kleinwagen,VAG,0
+240,5,Kleinwagen,VAG,0
+242,7,Kleinwagen,VAG,0
+243,8,Kleinwagen,VAG,0
+246,3,Kleinwagen,VAG,0
+247,4,Kleinwagen,VAG,0
+248,5,Kleinwagen,VAG,0
+250,9,Kleinwagen,VAG,0
+251,2,Kleinwagen,Japanese,0
+252,4,Kleinwagen,Japanese,0
+253,6,Kleinwagen,Japanese,0
+254,7,Kleinwagen,Japanese,0
+255,8,Kleinwagen,Japanese,0
+256,9,Kleinwagen,Japanese,0
+257,2,Kleinwagen,Japanese,0
+259,4,Kleinwagen,Japanese,0
+260,5,Kleinwagen,Japanese,0
+261,6,Kleinwagen,Japanese,0
+262,7,Kleinwagen,Japanese,0
+263,8,Kleinwagen,Japanese,0
+264,9,Kleinwagen,Japanese,0
+265,2,Kleinwagen,Japanese,1
+266,3,Kleinwagen,Japanese,1
+270,7,Kleinwagen,Japanese,1
+271,8,Kleinwagen,Japanese,1
+272,9,Kleinwagen,Japanese,1
+273,2,Kleinwagen,Japanese,1
+274,3,Kleinwagen,Japanese,1
+275,2,Kleinwagen,VAG,0
+276,3,Kleinwagen,VAG,0
+277,4,Kleinwagen,VAG,0
+278,5,Kleinwagen,VAG,0
+280,7,Kleinwagen,VAG,0
+281,8,Kleinwagen,VAG,0
+282,9,Kleinwagen,VAG,0
+283,2,Kleinwagen,VAG,0
+284,3,Kleinwagen,VAG,0
+285,4,Kleinwagen,VAG,0
+287,6,Kleinwagen,VAG,0
+288,2,Kleinwagen,VAG,0
+289,3,Kleinwagen,VAG,0
+290,2,Mittelklasse,VAG,0
+291,3,Mittelklasse,VAG,0
+293,5,Mittelklasse,VAG,0
+295,7,Mittelklasse,VAG,0
+296,8,Mittelklasse,VAG,0
+298,2,Mittelklasse,VAG,0
+300,4,Mittelklasse,VAG,0
+302,6,Mittelklasse,VAG,0
+303,7,Mittelklasse,VAG,0
+304,8,Mittelklasse,VAG,0
+307,3,Mittelklasse,VAG,0
+308,2,Mittelklasse,VAG,0
+309,3,Mittelklasse,VAG,0
+310,4,Mittelklasse,VAG,0
+313,7,Mittelklasse,VAG,0
+314,8,Mittelklasse,VAG,0
+315,9,Mittelklasse,VAG,0
+316,2,Mittelklasse,BMW_Group,0
+317,3,Mittelklasse,BMW_Group,0
+318,4,Mittelklasse,BMW_Group,0
+319,5,Mittelklasse,BMW_Group,0
+321,7,Mittelklasse,BMW_Group,0
+322,8,Mittelklasse,BMW_Group,0
+324,2,Mittelklasse,BMW_Group,0
+325,3,Mittelklasse,BMW_Group,0
+326,4,Mittelklasse,BMW_Group,0
+327,6,Mittelklasse,BMW_Group,0
+328,7,Mittelklasse,BMW_Group,0
+329,8,Mittelklasse,BMW_Group,0
+330,9,Mittelklasse,BMW_Group,0
+332,3,Mittelklasse,BMW_Group,0
+333,4,Mittelklasse,BMW_Group,0
+337,8,Mittelklasse,BMW_Group,0
+338,9,Mittelklasse,BMW_Group,0
+339,2,Mittelklasse,BMW_Group,0
+340,5,Mittelklasse,Ford_Europe,1
+343,8,Mittelklasse,Ford_Europe,1
+344,9,Mittelklasse,Ford_Europe,1
+345,6,Mittelklasse,Ford_Europe,0
+347,8,Mittelklasse,Ford_Europe,1
+348,9,Mittelklasse,Ford_Europe,1
+349,2,Mittelklasse,Korean,1
+351,2,Mittelklasse,MB_Group,0
+352,3,Mittelklasse,MB_Group,0
+353,4,Mittelklasse,MB_Group,0
+354,5,Mittelklasse,MB_Group,0
+355,6,Mittelklasse,MB_Group,0
+356,7,Mittelklasse,MB_Group,0
+357,8,Mittelklasse,MB_Group,0
+358,9,Mittelklasse,MB_Group,0
+359,2,Mittelklasse,MB_Group,0
+360,3,Mittelklasse,MB_Group,0
+361,4,Mittelklasse,MB_Group,0
+362,5,Mittelklasse,MB_Group,0
+363,2,Mittelklasse,MB_Group,0
+364,3,Mittelklasse,MB_Group,0
+367,6,Mittelklasse,MB_Group,0
+368,7,Mittelklasse,MB_Group,0
+369,8,Mittelklasse,MB_Group,0
+370,9,Mittelklasse,MB_Group,0
+371,4,Mittelklasse,Japanese,0
+372,5,Mittelklasse,Japanese,0
+373,6,Mittelklasse,Japanese,0
+374,7,Mittelklasse,Japanese,0
+375,8,Mittelklasse,Japanese,1
+376,9,Mittelklasse,Japanese,1
+377,3,Mittelklasse,Stellantis,1
+378,4,Mittelklasse,Stellantis,1
+379,5,Mittelklasse,Stellantis,1
+380,6,Mittelklasse,Stellantis,1
+381,7,Mittelklasse,Stellantis,1
+382,8,Mittelklasse,Stellantis,1
+383,9,Mittelklasse,Stellantis,1
+384,5,Mittelklasse,VAG,0
+385,6,Mittelklasse,VAG,1
+386,7,Mittelklasse,VAG,1
+387,8,Mittelklasse,VAG,1
+388,9,Mittelklasse,VAG,1
+389,2,Mittelklasse,VAG,0
+390,3,Mittelklasse,VAG,0
+391,4,Mittelklasse,VAG,0
+392,5,Mittelklasse,VAG,0
+393,6,Mittelklasse,VAG,0
+394,2,Mittelklasse,VAG,0
+395,3,Mittelklasse,VAG,0
+396,4,Mittelklasse,VAG,0
+398,3,Mittelklasse,VAG,0
+400,5,Mittelklasse,VAG,0
+401,6,Mittelklasse,VAG,0
+402,7,Mittelklasse,VAG,1
+403,8,Mittelklasse,VAG,1
+404,2,Mittelklasse,VAG,0
+405,3,Mittelklasse,VAG,0
+407,5,Mittelklasse,VAG,0
+409,7,Mittelklasse,VAG,0
+410,8,Mittelklasse,VAG,0
+411,9,Mittelklasse,VAG,0
+412,2,Mittelklasse,Other,0
+413,3,Mittelklasse,Other,0
+414,4,Mittelklasse,Other,0
+415,5,Mittelklasse,Other,0
+416,6,Mittelklasse,Other,0
+417,2,Mittelklasse,Other,0
+418,3,Mittelklasse,Other,0
+420,4,Mittelklasse,Japanese,1
+421,5,Mittelklasse,Japanese,1
+422,6,Mittelklasse,Japanese,1
+423,7,Mittelklasse,Japanese,1
+424,8,Mittelklasse,Japanese,1
+425,9,Mittelklasse,Japanese,1
+426,2,Mittelklasse,VAG,0
+427,3,Mittelklasse,VAG,0
+431,4,Mittelklasse,VAG,0
+432,5,Mittelklasse,VAG,0
+433,6,Mittelklasse,VAG,0
+434,7,Mittelklasse,VAG,0
+435,8,Mittelklasse,VAG,0
+436,9,Mittelklasse,VAG,0
+437,6,Mittelklasse,VAG,1
+440,9,Mittelklasse,VAG,1
+441,2,Mittelklasse,Other,0
+442,3,Mittelklasse,Other,0
+443,4,Mittelklasse,Other,0
+444,5,Mittelklasse,Other,0
+445,6,Mittelklasse,Other,0
+446,7,Mittelklasse,Other,0
+447,8,Mittelklasse,Other,1
+448,9,Mittelklasse,Other,1
+449,2,Obere Mittelklasse,VAG,0
+450,3,Obere Mittelklasse,VAG,0
+452,5,Obere Mittelklasse,VAG,0
+453,6,Obere Mittelklasse,VAG,1
+455,8,Obere Mittelklasse,VAG,0
+456,9,Obere Mittelklasse,VAG,0
+457,2,Obere Mittelklasse,VAG,0
+458,3,Obere Mittelklasse,VAG,0
+460,3,Obere Mittelklasse,BMW_Group,0
+462,5,Obere Mittelklasse,BMW_Group,0
+463,6,Obere Mittelklasse,BMW_Group,0
+464,7,Obere Mittelklasse,BMW_Group,0
+465,8,Obere Mittelklasse,BMW_Group,0
+467,2,Obere Mittelklasse,BMW_Group,0
+468,3,Obere Mittelklasse,BMW_Group,0
+469,4,Obere Mittelklasse,BMW_Group,0
+470,5,Obere Mittelklasse,BMW_Group,0
+471,6,Obere Mittelklasse,BMW_Group,0
+472,7,Obere Mittelklasse,BMW_Group,0
+473,8,Obere Mittelklasse,BMW_Group,0
+474,2,Obere Mittelklasse,Stellantis,0
+475,3,Obere Mittelklasse,Stellantis,0
+477,5,Obere Mittelklasse,Stellantis,1
+478,6,Obere Mittelklasse,Stellantis,1
+479,7,Obere Mittelklasse,Stellantis,1
+480,8,Obere Mittelklasse,Stellantis,1
+481,9,Obere Mittelklasse,Stellantis,1
+482,2,Obere Mittelklasse,Ford_Europe,0
+483,3,Obere Mittelklasse,Ford_Europe,0
+484,4,Obere Mittelklasse,Ford_Europe,0
+485,5,Obere Mittelklasse,Ford_Europe,0
+486,6,Obere Mittelklasse,Ford_Europe,1
+487,7,Obere Mittelklasse,Ford_Europe,1
+488,8,Obere Mittelklasse,Ford_Europe,0
+489,9,Obere Mittelklasse,Ford_Europe,1
+490,2,Obere Mittelklasse,Ford_Europe,0
+491,3,Obere Mittelklasse,Ford_Europe,0
+492,4,Obere Mittelklasse,Ford_Europe,1
+493,5,Obere Mittelklasse,Ford_Europe,1
+494,6,Obere Mittelklasse,Ford_Europe,0
+495,7,Obere Mittelklasse,Ford_Europe,0
+496,8,Obere Mittelklasse,Ford_Europe,0
+498,2,Obere Mittelklasse,MB_Group,0
+499,3,Obere Mittelklasse,MB_Group,0
+500,4,Obere Mittelklasse,MB_Group,0
+502,6,Obere Mittelklasse,MB_Group,0
+503,7,Obere Mittelklasse,MB_Group,0
+504,8,Obere Mittelklasse,MB_Group,0
+508,4,Obere Mittelklasse,MB_Group,0
+510,6,Obere Mittelklasse,MB_Group,0
+511,7,Obere Mittelklasse,MB_Group,0
+513,9,Obere Mittelklasse,MB_Group,0
+514,2,Obere Mittelklasse,MB_Group,0
+515,3,Obere Mittelklasse,MB_Group,0
+516,4,Obere Mittelklasse,MB_Group,0
+517,5,Obere Mittelklasse,MB_Group,0
+518,6,Obere Mittelklasse,MB_Group,1
+519,7,Obere Mittelklasse,MB_Group,0
+520,8,Obere Mittelklasse,MB_Group,0
+521,9,Obere Mittelklasse,MB_Group,0
+522,2,Obere Mittelklasse,Renault_Dacia_Nissan,0
+523,3,Obere Mittelklasse,Renault_Dacia_Nissan,0
+524,4,Obere Mittelklasse,Renault_Dacia_Nissan,1
+526,6,Obere Mittelklasse,Renault_Dacia_Nissan,1
+527,7,Obere Mittelklasse,Renault_Dacia_Nissan,1
+528,8,Obere Mittelklasse,Renault_Dacia_Nissan,1
+530,2,Obere Mittelklasse,VAG,0
+532,4,Obere Mittelklasse,VAG,0
+533,5,Obere Mittelklasse,VAG,0
+534,6,Obere Mittelklasse,VAG,1
+535,7,Obere Mittelklasse,VAG,0
+537,9,Obere Mittelklasse,VAG,0
+538,2,Obere Mittelklasse,VAG,0
+540,4,Obere Mittelklasse,VAG,0
+542,3,Obere Mittelklasse,VAG,0
+543,4,Obere Mittelklasse,VAG,0
+544,5,Obere Mittelklasse,VAG,0
+546,7,Obere Mittelklasse,VAG,0
+547,8,Obere Mittelklasse,VAG,1
+548,9,Obere Mittelklasse,VAG,1
+549,2,Untere Mittelklasse,VAG,0
+550,3,Untere Mittelklasse,VAG,0
+551,4,Untere Mittelklasse,VAG,0
+552,5,Untere Mittelklasse,VAG,0
+554,7,Untere Mittelklasse,VAG,0
+555,8,Untere Mittelklasse,VAG,0
+557,2,Untere Mittelklasse,VAG,0
+558,3,Untere Mittelklasse,VAG,0
+560,5,Untere Mittelklasse,VAG,0
+561,6,Untere Mittelklasse,VAG,0
+563,8,Untere Mittelklasse,VAG,0
+564,2,Untere Mittelklasse,VAG,0
+565,3,Untere Mittelklasse,VAG,0
+566,4,Untere Mittelklasse,VAG,0
+567,5,Untere Mittelklasse,VAG,0
+571,9,Untere Mittelklasse,VAG,0
+573,3,Untere Mittelklasse,BMW_Group,0
+574,4,Untere Mittelklasse,BMW_Group,0
+575,5,Untere Mittelklasse,BMW_Group,0
+576,6,Untere Mittelklasse,BMW_Group,0
+577,7,Untere Mittelklasse,BMW_Group,0
+578,8,Untere Mittelklasse,BMW_Group,0
+579,9,Untere Mittelklasse,BMW_Group,0
+581,3,Untere Mittelklasse,BMW_Group,0
+583,5,Untere Mittelklasse,BMW_Group,0
+586,8,Untere Mittelklasse,BMW_Group,0
+588,2,Untere Mittelklasse,BMW_Group,0
+589,3,Untere Mittelklasse,BMW_Group,0
+590,4,Untere Mittelklasse,BMW_Group,0
+591,5,Untere Mittelklasse,BMW_Group,0
+592,6,Untere Mittelklasse,BMW_Group,0
+593,7,Untere Mittelklasse,BMW_Group,1
+595,9,Untere Mittelklasse,BMW_Group,1
+596,3,Untere Mittelklasse,BMW_Group,0
+597,4,Untere Mittelklasse,BMW_Group,0
+599,6,Untere Mittelklasse,BMW_Group,0
+600,7,Untere Mittelklasse,BMW_Group,0
+602,2,Untere Mittelklasse,VAG,0
+605,3,Untere Mittelklasse,VAG,0
+607,2,Untere Mittelklasse,VAG,0
+609,2,Untere Mittelklasse,Stellantis,0
+610,3,Untere Mittelklasse,Stellantis,0
+611,4,Untere Mittelklasse,Stellantis,0
+612,5,Untere Mittelklasse,Stellantis,1
+614,7,Untere Mittelklasse,Stellantis,1
+615,8,Untere Mittelklasse,Stellantis,1
+616,9,Untere Mittelklasse,Stellantis,1
+617,4,Untere Mittelklasse,Renault_Dacia_Nissan,0
+618,5,Untere Mittelklasse,Renault_Dacia_Nissan,0
+619,6,Untere Mittelklasse,Renault_Dacia_Nissan,0
+620,7,Untere Mittelklasse,Renault_Dacia_Nissan,1
+621,8,Untere Mittelklasse,Renault_Dacia_Nissan,1
+622,9,Untere Mittelklasse,Renault_Dacia_Nissan,1
+623,2,Untere Mittelklasse,Renault_Dacia_Nissan,0
+624,3,Untere Mittelklasse,Renault_Dacia_Nissan,0
+625,5,Untere Mittelklasse,Stellantis,0
+626,6,Untere Mittelklasse,Stellantis,0
+627,7,Untere Mittelklasse,Stellantis,1
+630,6,Untere Mittelklasse,Ford_Europe,0
+632,8,Untere Mittelklasse,Ford_Europe,1
+633,9,Untere Mittelklasse,Ford_Europe,1
+634,2,Untere Mittelklasse,Ford_Europe,0
+635,3,Untere Mittelklasse,Ford_Europe,1
+636,4,Untere Mittelklasse,Ford_Europe,1
+637,5,Untere Mittelklasse,Ford_Europe,1
+638,6,Untere Mittelklasse,Ford_Europe,1
+639,7,Untere Mittelklasse,Ford_Europe,1
+640,8,Untere Mittelklasse,Ford_Europe,1
+641,9,Untere Mittelklasse,Ford_Europe,1
+642,2,Untere Mittelklasse,Ford_Europe,0
+643,3,Untere Mittelklasse,Ford_Europe,1
+644,4,Untere Mittelklasse,Ford_Europe,1
+645,5,Untere Mittelklasse,Ford_Europe,1
+646,6,Untere Mittelklasse,Ford_Europe,1
+647,7,Untere Mittelklasse,Ford_Europe,1
+648,8,Untere Mittelklasse,Ford_Europe,1
+649,9,Untere Mittelklasse,Ford_Europe,1
+650,2,Untere Mittelklasse,Ford_Europe,0
+651,3,Untere Mittelklasse,Ford_Europe,0
+652,4,Untere Mittelklasse,Ford_Europe,0
+653,5,Untere Mittelklasse,Ford_Europe,0
+654,6,Untere Mittelklasse,Ford_Europe,1
+656,8,Untere Mittelklasse,Ford_Europe,1
+657,9,Untere Mittelklasse,Ford_Europe,1
+658,2,Untere Mittelklasse,Korean,0
+659,3,Untere Mittelklasse,Korean,0
+660,4,Untere Mittelklasse,Korean,0
+661,5,Untere Mittelklasse,Korean,0
+662,6,Untere Mittelklasse,Korean,0
+663,7,Untere Mittelklasse,Korean,0
+664,8,Untere Mittelklasse,Korean,0
+665,9,Untere Mittelklasse,Korean,1
+666,2,Untere Mittelklasse,Korean,0
+667,3,Untere Mittelklasse,Korean,0
+668,4,Untere Mittelklasse,Korean,0
+669,5,Untere Mittelklasse,Korean,0
+672,8,Untere Mittelklasse,Korean,0
+673,9,Untere Mittelklasse,Korean,0
+674,2,Untere Mittelklasse,Korean,0
+675,3,Untere Mittelklasse,Korean,0
+676,4,Untere Mittelklasse,Korean,0
+677,5,Untere Mittelklasse,Korean,0
+678,6,Untere Mittelklasse,Korean,0
+679,7,Untere Mittelklasse,Korean,0
+680,8,Untere Mittelklasse,Korean,1
+681,9,Untere Mittelklasse,Korean,1
+682,2,Untere Mittelklasse,Korean,0
+683,3,Untere Mittelklasse,Korean,0
+684,4,Untere Mittelklasse,Korean,0
+685,5,Untere Mittelklasse,Korean,0
+686,6,Untere Mittelklasse,Korean,0
+687,7,Untere Mittelklasse,Korean,0
+688,8,Untere Mittelklasse,Korean,1
+689,9,Untere Mittelklasse,Korean,1
+690,2,Untere Mittelklasse,Other,0
+691,5,Untere Mittelklasse,Japanese,1
+692,6,Untere Mittelklasse,Japanese,1
+693,7,Untere Mittelklasse,Japanese,0
+694,8,Untere Mittelklasse,Japanese,0
+695,9,Untere Mittelklasse,Japanese,0
+696,2,Untere Mittelklasse,Japanese,0
+697,3,Untere Mittelklasse,Japanese,0
+698,4,Untere Mittelklasse,Japanese,1
+699,5,Untere Mittelklasse,Japanese,1
+700,2,Untere Mittelklasse,Japanese,0
+701,3,Untere Mittelklasse,Japanese,0
+702,4,Untere Mittelklasse,Japanese,0
+705,7,Untere Mittelklasse,Japanese,0
+706,8,Untere Mittelklasse,Japanese,0
+707,9,Untere Mittelklasse,Japanese,0
+708,2,Untere Mittelklasse,MB_Group,0
+709,3,Untere Mittelklasse,MB_Group,0
+710,4,Untere Mittelklasse,MB_Group,0
+711,5,Untere Mittelklasse,MB_Group,0
+712,6,Untere Mittelklasse,MB_Group,0
+713,7,Untere Mittelklasse,MB_Group,0
+714,8,Untere Mittelklasse,MB_Group,0
+716,2,Untere Mittelklasse,MB_Group,0
+717,3,Untere Mittelklasse,MB_Group,0
+718,4,Untere Mittelklasse,MB_Group,0
+719,5,Untere Mittelklasse,MB_Group,0
+720,6,Untere Mittelklasse,MB_Group,0
+722,8,Untere Mittelklasse,MB_Group,1
+723,9,Untere Mittelklasse,MB_Group,0
+725,3,Untere Mittelklasse,MB_Group,0
+727,5,Untere Mittelklasse,MB_Group,0
+728,6,Untere Mittelklasse,MB_Group,0
+729,7,Untere Mittelklasse,MB_Group,1
+730,8,Untere Mittelklasse,MB_Group,1
+731,9,Untere Mittelklasse,MB_Group,1
+732,2,Untere Mittelklasse,MB_Group,0
+733,3,Untere Mittelklasse,MB_Group,0
+737,8,Untere Mittelklasse,MB_Group,1
+738,9,Untere Mittelklasse,MB_Group,1
+740,3,Untere Mittelklasse,MB_Group,0
+741,2,Untere Mittelklasse,MB_Group,0
+743,4,Untere Mittelklasse,MB_Group,0
+745,6,Untere Mittelklasse,MB_Group,0
+746,7,Untere Mittelklasse,MB_Group,0
+747,8,Untere Mittelklasse,MB_Group,1
+748,9,Untere Mittelklasse,MB_Group,1
+750,6,Untere Mittelklasse,Japanese,0
+752,8,Untere Mittelklasse,Japanese,0
+753,9,Untere Mittelklasse,Japanese,0
+754,3,Untere Mittelklasse,Japanese,0
+755,4,Untere Mittelklasse,Japanese,0
+756,5,Untere Mittelklasse,Japanese,0
+757,6,Untere Mittelklasse,Japanese,0
+758,7,Untere Mittelklasse,Japanese,0
+759,2,Untere Mittelklasse,Renault_Dacia_Nissan,0
+760,3,Untere Mittelklasse,Renault_Dacia_Nissan,0
+763,6,Untere Mittelklasse,Renault_Dacia_Nissan,1
+765,8,Untere Mittelklasse,Renault_Dacia_Nissan,1
+766,9,Untere Mittelklasse,Renault_Dacia_Nissan,1
+767,2,Untere Mittelklasse,Stellantis,0
+768,3,Untere Mittelklasse,Stellantis,0
+769,4,Untere Mittelklasse,Stellantis,0
+770,5,Untere Mittelklasse,Stellantis,0
+771,6,Untere Mittelklasse,Stellantis,0
+773,8,Untere Mittelklasse,Stellantis,0
+775,2,Untere Mittelklasse,Stellantis,0
+776,3,Untere Mittelklasse,Stellantis,0
+778,5,Untere Mittelklasse,Stellantis,1
+781,3,Untere Mittelklasse,Stellantis,0
+783,5,Untere Mittelklasse,Stellantis,0
+784,6,Untere Mittelklasse,Stellantis,1
+785,7,Untere Mittelklasse,Stellantis,1
+786,6,Untere Mittelklasse,Stellantis,1
+787,7,Untere Mittelklasse,Stellantis,1
+788,8,Untere Mittelklasse,Stellantis,1
+789,9,Untere Mittelklasse,Stellantis,1
+791,3,Untere Mittelklasse,Stellantis,0
+792,4,Untere Mittelklasse,Stellantis,0
+794,6,Untere Mittelklasse,Stellantis,1
+796,8,Untere Mittelklasse,Stellantis,1
+797,2,Untere Mittelklasse,Stellantis,0
+798,3,Untere Mittelklasse,Stellantis,0
+799,6,Untere Mittelklasse,Stellantis,1
+801,8,Untere Mittelklasse,Stellantis,1
+802,9,Untere Mittelklasse,Stellantis,1
+803,2,Untere Mittelklasse,Renault_Dacia_Nissan,0
+804,5,Untere Mittelklasse,Renault_Dacia_Nissan,1
+805,6,Untere Mittelklasse,Renault_Dacia_Nissan,1
+807,8,Untere Mittelklasse,Renault_Dacia_Nissan,1
+808,9,Untere Mittelklasse,Renault_Dacia_Nissan,1
+809,2,Untere Mittelklasse,Renault_Dacia_Nissan,0
+810,3,Untere Mittelklasse,Renault_Dacia_Nissan,0
+811,4,Untere Mittelklasse,Renault_Dacia_Nissan,0
+812,5,Untere Mittelklasse,Renault_Dacia_Nissan,1
+813,6,Untere Mittelklasse,Renault_Dacia_Nissan,0
+814,7,Untere Mittelklasse,Renault_Dacia_Nissan,1
+815,8,Untere Mittelklasse,Renault_Dacia_Nissan,1
+816,9,Untere Mittelklasse,Renault_Dacia_Nissan,1
+817,2,Untere Mittelklasse,Renault_Dacia_Nissan,0
+818,3,Untere Mittelklasse,Renault_Dacia_Nissan,0
+820,6,Untere Mittelklasse,Renault_Dacia_Nissan,1
+822,8,Untere Mittelklasse,Renault_Dacia_Nissan,1
+823,9,Untere Mittelklasse,Renault_Dacia_Nissan,1
+824,6,Untere Mittelklasse,Renault_Dacia_Nissan,1
+825,7,Untere Mittelklasse,Renault_Dacia_Nissan,1
+826,8,Untere Mittelklasse,Renault_Dacia_Nissan,1
+827,2,Untere Mittelklasse,VAG,0
+828,3,Untere Mittelklasse,VAG,0
+831,6,Untere Mittelklasse,VAG,0
+832,7,Untere Mittelklasse,VAG,0
+833,8,Untere Mittelklasse,VAG,0
+834,9,Untere Mittelklasse,VAG,0
+836,3,Untere Mittelklasse,VAG,0
+838,5,Untere Mittelklasse,VAG,0
+839,6,Untere Mittelklasse,VAG,0
+840,7,Untere Mittelklasse,VAG,0
+841,8,Untere Mittelklasse,VAG,0
+842,9,Untere Mittelklasse,VAG,0
+843,2,Untere Mittelklasse,VAG,0
+844,3,Untere Mittelklasse,VAG,0
+845,4,Untere Mittelklasse,VAG,0
+846,5,Untere Mittelklasse,VAG,0
+847,6,Untere Mittelklasse,VAG,0
+848,7,Untere Mittelklasse,VAG,0
+849,6,Untere Mittelklasse,VAG,0
+850,7,Untere Mittelklasse,VAG,0
+851,8,Untere Mittelklasse,VAG,0
+853,2,Untere Mittelklasse,VAG,0
+854,3,Untere Mittelklasse,VAG,0
+855,4,Untere Mittelklasse,VAG,0
+856,5,Untere Mittelklasse,VAG,0
+857,6,Untere Mittelklasse,VAG,0
+858,7,Untere Mittelklasse,Japanese,1
+860,9,Untere Mittelklasse,Japanese,1
+861,2,Untere Mittelklasse,Japanese,0
+863,4,Untere Mittelklasse,Japanese,1
+864,5,Untere Mittelklasse,Japanese,1
+865,6,Untere Mittelklasse,Japanese,1
+867,8,Untere Mittelklasse,Japanese,1
+868,2,Untere Mittelklasse,Japanese,1
+869,3,Untere Mittelklasse,Japanese,1
+870,4,Untere Mittelklasse,Japanese,1
+871,5,Untere Mittelklasse,Japanese,1
+872,6,Untere Mittelklasse,Japanese,1
+873,7,Untere Mittelklasse,VAG,0
+875,9,Untere Mittelklasse,VAG,0
+876,2,Untere Mittelklasse,VAG,0
+878,4,Untere Mittelklasse,VAG,0
+879,5,Untere Mittelklasse,VAG,0
+880,6,Untere Mittelklasse,VAG,0
+881,7,Untere Mittelklasse,VAG,0
+882,8,Untere Mittelklasse,VAG,0
+884,2,Untere Mittelklasse,VAG,0
+885,3,Untere Mittelklasse,VAG,0
+886,4,Untere Mittelklasse,VAG,0
+887,5,Untere Mittelklasse,VAG,0
+888,2,Untere Mittelklasse,VAG,0
+889,3,Untere Mittelklasse,VAG,0
+890,4,Untere Mittelklasse,VAG,0
+891,5,Untere Mittelklasse,VAG,0
+894,8,Untere Mittelklasse,VAG,0
+895,9,Untere Mittelklasse,VAG,0
+896,2,Untere Mittelklasse,VAG,0
+897,3,Untere Mittelklasse,VAG,0
+898,4,Untere Mittelklasse,VAG,0
+899,5,Untere Mittelklasse,VAG,0
+901,7,Untere Mittelklasse,VAG,0
+903,3,Untere Mittelklasse,VAG,0
+904,4,Untere Mittelklasse,VAG,0
+905,5,Untere Mittelklasse,VAG,0
+906,6,Untere Mittelklasse,VAG,0
+909,9,Untere Mittelklasse,VAG,0
+910,2,Untere Mittelklasse,VAG,0
+912,4,Untere Mittelklasse,VAG,0
+913,5,Untere Mittelklasse,VAG,0
+914,6,Untere Mittelklasse,VAG,0
+915,7,Untere Mittelklasse,VAG,0
+916,8,Untere Mittelklasse,VAG,0
+917,9,Untere Mittelklasse,VAG,0
+919,3,Untere Mittelklasse,Other,0
+920,4,Untere Mittelklasse,Other,0
+921,5,Untere Mittelklasse,Other,0
+922,6,Untere Mittelklasse,Other,0
+923,2,Vans/Transporter,Stellantis,1
+924,4,Vans/Transporter,Stellantis,1
+925,5,Vans/Transporter,Stellantis,1
+926,6,Vans/Transporter,Stellantis,1
+927,7,Vans/Transporter,Stellantis,1
+928,8,Vans/Transporter,Stellantis,1
+929,9,Vans/Transporter,Stellantis,1
+930,2,Vans/Transporter,Ford_Europe,0
+931,3,Vans/Transporter,Ford_Europe,0
+932,4,Vans/Transporter,Ford_Europe,0
+933,5,Vans/Transporter,Ford_Europe,0
+934,6,Vans/Transporter,Ford_Europe,1
+935,7,Vans/Transporter,Ford_Europe,0
+936,8,Vans/Transporter,Ford_Europe,0
+937,9,Vans/Transporter,Ford_Europe,1
+938,2,Vans/Transporter,MB_Group,0
+939,3,Vans/Transporter,MB_Group,0
+941,5,Vans/Transporter,MB_Group,0
+942,6,Vans/Transporter,MB_Group,0
+943,7,Vans/Transporter,MB_Group,0
+945,9,Vans/Transporter,MB_Group,0
+946,2,Vans/Transporter,Renault_Dacia_Nissan,0
+947,3,Vans/Transporter,Renault_Dacia_Nissan,0
+948,4,Vans/Transporter,Renault_Dacia_Nissan,1
+949,5,Vans/Transporter,Renault_Dacia_Nissan,1
+950,6,Vans/Transporter,Renault_Dacia_Nissan,1
+951,7,Vans/Transporter,Renault_Dacia_Nissan,0
+952,8,Vans/Transporter,Renault_Dacia_Nissan,0
+954,2,Vans/Transporter,VAG,0
+955,3,Vans/Transporter,VAG,0
+956,4,Vans/Transporter,VAG,0
+958,6,Vans/Transporter,VAG,0
+959,7,Vans/Transporter,VAG,0
+960,8,Vans/Transporter,VAG,1
+961,9,Vans/Transporter,VAG,0

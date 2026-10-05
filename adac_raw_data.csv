@@ -1,0 +1,963 @@
+vehicle_class,model,year,defect_rate
+Kleinstwagen,Dacia Spring,2023,3.2
+Kleinstwagen,Dacia Spring,2022,3.1
+Kleinstwagen,Fiat 500,2023,3.4
+Kleinstwagen,Fiat 500,2022,6.2
+Kleinstwagen,Fiat 500,2021,9.2
+Kleinstwagen,Fiat 500,2020,7.9
+Kleinstwagen,Fiat 500,2019,9.7
+Kleinstwagen,Fiat 500,2018,18.8
+Kleinstwagen,Fiat 500,2017,19.7
+Kleinstwagen,Fiat 500,2016,19.4
+Kleinstwagen,Hyundai i10,2023,5.2
+Kleinstwagen,Hyundai i10,2022,8.1
+Kleinstwagen,Hyundai i10,2021,6.5
+Kleinstwagen,Hyundai i10,2020,14.6
+Kleinstwagen,Hyundai i10,2019,28.4
+Kleinstwagen,Hyundai i10,2018,22.8
+Kleinstwagen,Hyundai i10,2017,20.1
+Kleinstwagen,Hyundai i10,2016,13.6
+Kleinstwagen,Kia Picanto,2023,5.4
+Kleinstwagen,Kia Picanto,2022,12.4
+Kleinstwagen,Kia Picanto,2021,5.4
+Kleinstwagen,Kia Picanto,2020,10.1
+Kleinstwagen,Kia Picanto,2019,19.3
+Kleinstwagen,Kia Picanto,2018,17.2
+Kleinstwagen,Kia Picanto,2017,14.7
+Kleinstwagen,Kia Picanto,2016,15.9
+Kleinstwagen,Opel ADAM,2019,11.3
+Kleinstwagen,Opel ADAM,2018,11.5
+Kleinstwagen,Opel ADAM,2017,15.0
+Kleinstwagen,Opel ADAM,2016,26.5
+Kleinstwagen,Renault Twingo,2023,3.5
+Kleinstwagen,Renault Twingo,2022,6.7
+Kleinstwagen,Renault Twingo,2021,10.0
+Kleinstwagen,Renault Twingo,2020,15.4
+Kleinstwagen,Renault Twingo,2019,17.1
+Kleinstwagen,Renault Twingo,2018,11.3
+Kleinstwagen,Renault Twingo,2017,17.1
+Kleinstwagen,Renault Twingo,2016,21.2
+Kleinstwagen,Skoda Citigo,2019,5.7
+Kleinstwagen,Skoda Citigo,2018,8.1
+Kleinstwagen,Skoda Citigo,2017,12.2
+Kleinstwagen,Skoda Citigo,2016,15.3
+Kleinstwagen,Suzuki Ignis,2023,0.9
+Kleinstwagen,Suzuki Ignis,2021,2.3
+Kleinstwagen,Suzuki Ignis,2020,1.8
+Kleinstwagen,Suzuki Ignis,2019,6.3
+Kleinstwagen,Suzuki Ignis,2018,6.8
+Kleinstwagen,Suzuki Ignis,2017,14.9
+Kleinstwagen,Toyota Aygo,2023,1.4
+Kleinstwagen,Toyota Aygo,2022,3.9
+Kleinstwagen,Toyota Aygo,2021,5.3
+Kleinstwagen,Toyota Aygo,2020,5.5
+Kleinstwagen,Toyota Aygo,2019,7.7
+Kleinstwagen,Toyota Aygo,2018,10.2
+Kleinstwagen,Toyota Aygo,2017,12.0
+Kleinstwagen,Toyota Aygo,2016,8.0
+Kleinstwagen,VW up!,2023,1.6
+Kleinstwagen,VW up!,2022,2.4
+Kleinstwagen,VW up!,2021,4.1
+Kleinstwagen,VW up!,2020,7.7
+Kleinstwagen,VW up!,2019,6.2
+Kleinstwagen,VW up!,2018,8.6
+Kleinstwagen,VW up!,2017,11.3
+Kleinstwagen,VW up!,2016,16.6
+Kleinstwagen,smart forfour,2021,4.8
+Kleinstwagen,smart forfour,2019,20.4
+Kleinstwagen,smart forfour,2018,22.5
+Kleinstwagen,smart forfour,2017,27.1
+Kleinstwagen,smart forfour,2016,26.6
+Kleinstwagen,smart fortwo,2023,6.6
+Kleinstwagen,smart fortwo,2022,6.9
+Kleinstwagen,smart fortwo,2021,5.8
+Kleinstwagen,smart fortwo,2020,9.1
+Kleinstwagen,smart fortwo,2019,22.7
+Kleinstwagen,smart fortwo,2018,21.5
+Kleinstwagen,smart fortwo,2017,26.4
+Kleinstwagen,smart fortwo,2016,23.1
+Kleinwagen,Audi A1,2023,1.3
+Kleinwagen,Audi A1,2022,2.2
+Kleinwagen,Audi A1,2021,6.8
+Kleinwagen,Audi A1,2020,4.7
+Kleinwagen,Audi A1,2019,5.0
+Kleinwagen,Audi A1,2018,3.7
+Kleinwagen,Audi A1,2017,4.2
+Kleinwagen,Audi A1,2016,5.8
+Kleinwagen,BMW i3,2022,0.4
+Kleinwagen,BMW i3,2021,0.7
+Kleinwagen,BMW i3,2020,1.0
+Kleinwagen,"Citroen C3, DS Automobiles DS 3",2023,3.1
+Kleinwagen,"Citroen C3, DS Automobiles DS 3",2020,5.6
+Kleinwagen,"Citroen C3, DS Automobiles DS 3",2019,9.0
+Kleinwagen,"Citroen C3, DS Automobiles DS 3",2018,12.7
+Kleinwagen,"Citroen C3, DS Automobiles DS 3",2017,19.0
+Kleinwagen,"Citroen C3, DS Automobiles DS 3",2016,24.7
+Kleinwagen,Dacia Duster/Logan/Sandero,2023,7.1
+Kleinwagen,Dacia Duster/Logan/Sandero,2022,7.3
+Kleinwagen,Dacia Duster/Logan/Sandero,2021,8.0
+Kleinwagen,Dacia Duster/Logan/Sandero,2020,8.9
+Kleinwagen,Dacia Duster/Logan/Sandero,2019,11.3
+Kleinwagen,Dacia Duster/Logan/Sandero,2018,13.4
+Kleinwagen,Dacia Duster/Logan/Sandero,2017,14.8
+Kleinwagen,Dacia Duster/Logan/Sandero,2016,19.3
+Kleinwagen,Ford B-MAX,2017,18.0
+Kleinwagen,Ford B-MAX,2016,19.0
+Kleinwagen,Ford EcoSport,2022,4.1
+Kleinwagen,Ford EcoSport,2021,6.6
+Kleinwagen,Ford EcoSport,2020,20.3
+Kleinwagen,Ford EcoSport,2019,13.1
+Kleinwagen,Ford EcoSport,2018,15.0
+Kleinwagen,Ford EcoSport,2017,20.4
+Kleinwagen,Ford EcoSport,2016,21.9
+Kleinwagen,Ford Fiesta,2023,6.1
+Kleinwagen,Ford Fiesta,2022,13.1
+Kleinwagen,Ford Fiesta,2021,16.3
+Kleinwagen,Ford Fiesta,2020,14.2
+Kleinwagen,Ford Fiesta,2019,10.2
+Kleinwagen,Ford Fiesta,2018,12.4
+Kleinwagen,Ford Fiesta,2017,20.6
+Kleinwagen,Ford Fiesta,2016,18.8
+Kleinwagen,Ford Puma,2023,3.6
+Kleinwagen,Ford Puma,2022,4.4
+Kleinwagen,Ford Puma,2021,13.8
+Kleinwagen,Ford Puma,2020,22.8
+Kleinwagen,Hyundai Kona,2023,6.1
+Kleinwagen,Hyundai Kona,2022,6.6
+Kleinwagen,Hyundai Kona,2021,11.8
+Kleinwagen,Hyundai Kona,2020,12.6
+Kleinwagen,Hyundai Kona,2019,13.1
+Kleinwagen,Hyundai Kona,2018,13.9
+Kleinwagen,Hyundai i20,2023,7.2
+Kleinwagen,Hyundai i20,2022,14.8
+Kleinwagen,Hyundai i20,2021,22.5
+Kleinwagen,Hyundai i20,2020,14.1
+Kleinwagen,Hyundai i20,2019,11.5
+Kleinwagen,Hyundai i20,2018,15.8
+Kleinwagen,Hyundai i20,2017,16.1
+Kleinwagen,Hyundai i20,2016,18.9
+Kleinwagen,Hyundai ix20,2019,20.3
+Kleinwagen,Hyundai ix20,2017,16.7
+Kleinwagen,Hyundai ix20,2016,19.8
+Kleinwagen,MINI MINI,2023,0.6
+Kleinwagen,MINI MINI,2022,0.8
+Kleinwagen,MINI MINI,2021,1.5
+Kleinwagen,MINI MINI,2020,1.9
+Kleinwagen,MINI MINI,2019,3.8
+Kleinwagen,MINI MINI,2018,12.0
+Kleinwagen,MINI MINI,2017,19.1
+Kleinwagen,MINI MINI,2016,16.0
+Kleinwagen,Mazda 2,2023,3.5
+Kleinwagen,Mazda 2,2019,6.8
+Kleinwagen,Mazda 2,2018,6.8
+Kleinwagen,Mazda 2,2017,8.3
+Kleinwagen,Mazda 2,2016,7.8
+Kleinwagen,Mazda CX-3,2019,8.0
+Kleinwagen,Mazda CX-3,2018,9.2
+Kleinwagen,Mazda CX-3,2017,7.0
+Kleinwagen,Mazda CX-3,2016,7.0
+Kleinwagen,Mitsubishi Space Star,2023,3.0
+Kleinwagen,Mitsubishi Space Star,2022,4.0
+Kleinwagen,Mitsubishi Space Star,2021,5.0
+Kleinwagen,Mitsubishi Space Star,2020,6.6
+Kleinwagen,Mitsubishi Space Star,2019,7.4
+Kleinwagen,Mitsubishi Space Star,2018,10.6
+Kleinwagen,Mitsubishi Space Star,2017,12.1
+Kleinwagen,Mitsubishi Space Star,2016,17.6
+Kleinwagen,Nissan Micra,2020,11.7
+Kleinwagen,Nissan Micra,2019,17.9
+Kleinwagen,Nissan Micra,2018,18.7
+Kleinwagen,Nissan Micra,2017,16.4
+Kleinwagen,Nissan Micra,2016,14.7
+Kleinwagen,Opel Corsa,2023,2.2
+Kleinwagen,Opel Corsa,2022,2.9
+Kleinwagen,Opel Corsa,2021,6.1
+Kleinwagen,Opel Corsa,2020,7.4
+Kleinwagen,Opel Corsa,2019,10.9
+Kleinwagen,Opel Corsa,2018,12.1
+Kleinwagen,Opel Corsa,2017,16.6
+Kleinwagen,Opel Corsa,2016,19.2
+Kleinwagen,Opel Crossland,2023,2.6
+Kleinwagen,Opel Crossland,2022,5.2
+Kleinwagen,Opel Crossland,2021,9.3
+Kleinwagen,Opel Crossland,2020,13.3
+Kleinwagen,Opel Crossland,2019,9.6
+Kleinwagen,Opel Crossland,2018,12.0
+Kleinwagen,Opel Crossland,2017,12.7
+Kleinwagen,Opel Meriva,2017,36.0
+Kleinwagen,Opel Meriva,2016,35.7
+Kleinwagen,Opel Mokka,2023,3.7
+Kleinwagen,Opel Mokka,2022,3.5
+Kleinwagen,Opel Mokka,2021,7.7
+Kleinwagen,Opel Mokka,2019,27.7
+Kleinwagen,Opel Mokka,2018,23.8
+Kleinwagen,Opel Mokka,2017,22.9
+Kleinwagen,Opel Mokka,2016,21.5
+Kleinwagen,Peugeot 2008,2023,3.7
+Kleinwagen,Peugeot 2008,2022,5.7
+Kleinwagen,Peugeot 2008,2021,9.3
+Kleinwagen,Peugeot 2008,2020,14.1
+Kleinwagen,Peugeot 2008,2019,9.2
+Kleinwagen,Peugeot 2008,2018,13.0
+Kleinwagen,Peugeot 2008,2017,17.2
+Kleinwagen,Peugeot 2008,2016,23.4
+Kleinwagen,Peugeot 208,2023,2.9
+Kleinwagen,Peugeot 208,2022,3.4
+Kleinwagen,Peugeot 208,2021,7.0
+Kleinwagen,Peugeot 208,2020,9.7
+Kleinwagen,Peugeot 208,2019,13.0
+Kleinwagen,Peugeot 208,2018,12.2
+Kleinwagen,Peugeot 208,2017,13.9
+Kleinwagen,Peugeot 208,2016,23.7
+Kleinwagen,Renault Captur/Clio,2023,7.6
+Kleinwagen,Renault Captur/Clio,2022,8.8
+Kleinwagen,Renault Captur/Clio,2021,12.5
+Kleinwagen,Renault Captur/Clio,2020,23.9
+Kleinwagen,Renault Captur/Clio,2019,15.8
+Kleinwagen,Renault Captur/Clio,2018,17.3
+Kleinwagen,Renault Captur/Clio,2017,21.0
+Kleinwagen,Renault Captur/Clio,2016,24.1
+Kleinwagen,Renault Zoe,2022,2.6
+Kleinwagen,Renault Zoe,2021,4.9
+Kleinwagen,Renault Zoe,2020,9.1
+Kleinwagen,Renault Zoe,2019,5.7
+Kleinwagen,Renault Zoe,2018,5.9
+Kleinwagen,SEAT Arona,2023,3.1
+Kleinwagen,SEAT Arona,2022,4.2
+Kleinwagen,SEAT Arona,2021,4.8
+Kleinwagen,SEAT Arona,2020,3.9
+Kleinwagen,SEAT Arona,2019,4.3
+Kleinwagen,SEAT Arona,2018,5.3
+Kleinwagen,SEAT Ibiza,2023,2.1
+Kleinwagen,SEAT Ibiza,2022,3.0
+Kleinwagen,SEAT Ibiza,2021,4.5
+Kleinwagen,SEAT Ibiza,2020,4.2
+Kleinwagen,SEAT Ibiza,2019,5.9
+Kleinwagen,SEAT Ibiza,2018,5.8
+Kleinwagen,SEAT Ibiza,2017,10.1
+Kleinwagen,SEAT Ibiza,2016,13.1
+Kleinwagen,Skoda Fabia,2023,3.8
+Kleinwagen,Skoda Fabia,2022,4.1
+Kleinwagen,Skoda Fabia,2021,6.1
+Kleinwagen,Skoda Fabia,2020,5.6
+Kleinwagen,Skoda Fabia,2019,9.5
+Kleinwagen,Skoda Fabia,2018,8.0
+Kleinwagen,Skoda Fabia,2017,7.9
+Kleinwagen,Skoda Fabia,2016,10.5
+Kleinwagen,Skoda Kamiq,2023,2.4
+Kleinwagen,Skoda Kamiq,2022,2.5
+Kleinwagen,Skoda Kamiq,2021,3.6
+Kleinwagen,Skoda Kamiq,2020,5.4
+Kleinwagen,Skoda Yeti,2017,6.4
+Kleinwagen,Skoda Yeti,2016,10.0
+Kleinwagen,Suzuki Swift,2023,1.2
+Kleinwagen,Suzuki Swift,2021,5.4
+Kleinwagen,Suzuki Swift,2019,3.7
+Kleinwagen,Suzuki Swift,2018,8.6
+Kleinwagen,Suzuki Swift,2017,10.6
+Kleinwagen,Suzuki Swift,2016,9.7
+Kleinwagen,Suzuki Vitara,2023,2.6
+Kleinwagen,Suzuki Vitara,2022,6.0
+Kleinwagen,Suzuki Vitara,2021,10.4
+Kleinwagen,Suzuki Vitara,2020,10.4
+Kleinwagen,Suzuki Vitara,2019,6.1
+Kleinwagen,Suzuki Vitara,2018,6.9
+Kleinwagen,Suzuki Vitara,2017,4.7
+Kleinwagen,Suzuki Vitara,2016,7.2
+Kleinwagen,Toyota Yaris,2023,29.7
+Kleinwagen,Toyota Yaris,2022,50.2
+Kleinwagen,Toyota Yaris,2021,61.6
+Kleinwagen,Toyota Yaris,2020,32.7
+Kleinwagen,Toyota Yaris,2019,15.9
+Kleinwagen,Toyota Yaris,2018,20.4
+Kleinwagen,Toyota Yaris,2017,25.7
+Kleinwagen,Toyota Yaris,2016,28.6
+Kleinwagen,Toyota Yaris Cross,2023,43.0
+Kleinwagen,Toyota Yaris Cross,2022,63.4
+Kleinwagen,VW Polo,2023,1.8
+Kleinwagen,VW Polo,2022,3.6
+Kleinwagen,VW Polo,2021,5.3
+Kleinwagen,VW Polo,2020,5.4
+Kleinwagen,VW Polo,2019,6.4
+Kleinwagen,VW Polo,2018,8.2
+Kleinwagen,VW Polo,2017,10.3
+Kleinwagen,VW Polo,2016,12.1
+Kleinwagen,VW T-Cross,2023,2.9
+Kleinwagen,VW T-Cross,2022,3.6
+Kleinwagen,VW T-Cross,2021,4.6
+Kleinwagen,VW T-Cross,2020,3.9
+Kleinwagen,VW T-Cross,2019,5.8
+Kleinwagen,VW Taigo,2023,1.6
+Kleinwagen,VW Taigo,2022,2.3
+Mittelklasse,Audi A4,2023,1.0
+Mittelklasse,Audi A4,2022,0.9
+Mittelklasse,Audi A4,2021,3.0
+Mittelklasse,Audi A4,2020,3.1
+Mittelklasse,Audi A4,2019,4.5
+Mittelklasse,Audi A4,2018,5.5
+Mittelklasse,Audi A4,2017,5.9
+Mittelklasse,Audi A4,2016,6.9
+Mittelklasse,Audi A5,2023,1.4
+Mittelklasse,Audi A5,2022,2.7
+Mittelklasse,Audi A5,2021,6.0
+Mittelklasse,Audi A5,2020,7.2
+Mittelklasse,Audi A5,2019,4.5
+Mittelklasse,Audi A5,2018,6.0
+Mittelklasse,Audi A5,2017,8.5
+Mittelklasse,Audi A5,2016,8.2
+Mittelklasse,Audi Q4 e-tron,2023,0.6
+Mittelklasse,Audi Q4 e-tron,2022,0.9
+Mittelklasse,Audi Q5,2023,1.1
+Mittelklasse,Audi Q5,2022,2.0
+Mittelklasse,Audi Q5,2021,2.6
+Mittelklasse,Audi Q5,2020,5.2
+Mittelklasse,Audi Q5,2019,7.4
+Mittelklasse,Audi Q5,2018,6.7
+Mittelklasse,Audi Q5,2017,9.1
+Mittelklasse,Audi Q5,2016,11.1
+Mittelklasse,BMW 3er-Reihe,2023,1.4
+Mittelklasse,BMW 3er-Reihe,2022,1.1
+Mittelklasse,BMW 3er-Reihe,2021,2.5
+Mittelklasse,BMW 3er-Reihe,2020,3.8
+Mittelklasse,BMW 3er-Reihe,2019,6.9
+Mittelklasse,BMW 3er-Reihe,2018,7.0
+Mittelklasse,BMW 3er-Reihe,2017,6.6
+Mittelklasse,BMW 3er-Reihe,2016,7.4
+Mittelklasse,BMW 4er-Reihe,2023,1.3
+Mittelklasse,BMW 4er-Reihe,2022,2.1
+Mittelklasse,BMW 4er-Reihe,2021,4.0
+Mittelklasse,BMW 4er-Reihe,2019,7.5
+Mittelklasse,BMW 4er-Reihe,2018,8.0
+Mittelklasse,BMW 4er-Reihe,2017,8.2
+Mittelklasse,BMW 4er-Reihe,2016,8.5
+Mittelklasse,BMW X3,2023,0.7
+Mittelklasse,BMW X3,2022,1.8
+Mittelklasse,BMW X3,2021,2.5
+Mittelklasse,BMW X3,2020,3.7
+Mittelklasse,BMW X3,2019,5.7
+Mittelklasse,BMW X3,2018,6.2
+Mittelklasse,BMW X3,2017,6.5
+Mittelklasse,BMW X3,2016,4.2
+Mittelklasse,BMW i4,2023,0.3
+Mittelklasse,Ford Mondeo,2020,26.5
+Mittelklasse,Ford Mondeo,2019,15.5
+Mittelklasse,Ford Mondeo,2018,20.6
+Mittelklasse,Ford Mondeo,2017,22.2
+Mittelklasse,Ford Mondeo,2016,25.9
+Mittelklasse,Ford S-MAX,2019,11.9
+Mittelklasse,Ford S-MAX,2018,45.8
+Mittelklasse,Ford S-MAX,2017,42.4
+Mittelklasse,Ford S-MAX,2016,52.6
+Mittelklasse,Hyundai IONIQ 5,2023,19.5
+Mittelklasse,Hyundai IONIQ 5,2022,28.2
+Mittelklasse,Mercedes-Benz C-Klasse,2023,6.7
+Mittelklasse,Mercedes-Benz C-Klasse,2022,6.1
+Mittelklasse,Mercedes-Benz C-Klasse,2021,3.6
+Mittelklasse,Mercedes-Benz C-Klasse,2020,3.9
+Mittelklasse,Mercedes-Benz C-Klasse,2019,5.2
+Mittelklasse,Mercedes-Benz C-Klasse,2018,9.5
+Mittelklasse,Mercedes-Benz C-Klasse,2017,9.4
+Mittelklasse,Mercedes-Benz C-Klasse,2016,8.9
+Mittelklasse,Mercedes-Benz GLB,2023,1.7
+Mittelklasse,Mercedes-Benz GLB,2022,2.8
+Mittelklasse,Mercedes-Benz GLB,2021,3.6
+Mittelklasse,Mercedes-Benz GLB,2020,5.2
+Mittelklasse,Mercedes-Benz GLC,2023,7.1
+Mittelklasse,Mercedes-Benz GLC,2022,2.8
+Mittelklasse,Mercedes-Benz GLC,2021,1.7
+Mittelklasse,Mercedes-Benz GLC,2020,2.9
+Mittelklasse,Mercedes-Benz GLC,2019,5.7
+Mittelklasse,Mercedes-Benz GLC,2018,7.4
+Mittelklasse,Mercedes-Benz GLC,2017,9.7
+Mittelklasse,Mercedes-Benz GLC,2016,7.9
+Mittelklasse,Mitsubishi Outlander,2021,8.8
+Mittelklasse,Mitsubishi Outlander,2020,12.5
+Mittelklasse,Mitsubishi Outlander,2019,11.4
+Mittelklasse,Mitsubishi Outlander,2018,12.6
+Mittelklasse,Mitsubishi Outlander,2017,15.4
+Mittelklasse,Mitsubishi Outlander,2016,20.5
+Mittelklasse,Opel Insignia,2022,30.5
+Mittelklasse,Opel Insignia,2021,33.5
+Mittelklasse,Opel Insignia,2020,30.8
+Mittelklasse,Opel Insignia,2019,33.9
+Mittelklasse,Opel Insignia,2018,34.5
+Mittelklasse,Opel Insignia,2017,41.8
+Mittelklasse,Opel Insignia,2016,45.0
+Mittelklasse,SEAT Alhambra,2020,12.7
+Mittelklasse,SEAT Alhambra,2019,16.3
+Mittelklasse,SEAT Alhambra,2018,21.5
+Mittelklasse,SEAT Alhambra,2017,19.7
+Mittelklasse,SEAT Alhambra,2016,20.9
+Mittelklasse,SEAT Tarraco,2023,1.6
+Mittelklasse,SEAT Tarraco,2022,4.9
+Mittelklasse,SEAT Tarraco,2021,8.5
+Mittelklasse,SEAT Tarraco,2020,8.1
+Mittelklasse,SEAT Tarraco,2019,11.6
+Mittelklasse,Skoda Enyaq,2023,1.5
+Mittelklasse,Skoda Enyaq,2022,2.6
+Mittelklasse,Skoda Enyaq,2021,1.5
+Mittelklasse,Skoda Kodiaq,2023,7.2
+Mittelklasse,Skoda Kodiaq,2022,11.9
+Mittelklasse,Skoda Kodiaq,2021,15.6
+Mittelklasse,Skoda Kodiaq,2020,11.2
+Mittelklasse,Skoda Kodiaq,2019,13.6
+Mittelklasse,Skoda Kodiaq,2018,19.3
+Mittelklasse,Skoda Kodiaq,2017,16.4
+Mittelklasse,Skoda Octavia,2023,7.6
+Mittelklasse,Skoda Octavia,2022,11.0
+Mittelklasse,Skoda Octavia,2021,19.5
+Mittelklasse,Skoda Octavia,2020,14.2
+Mittelklasse,Skoda Octavia,2019,11.5
+Mittelklasse,Skoda Octavia,2018,12.0
+Mittelklasse,Skoda Octavia,2017,10.5
+Mittelklasse,Skoda Octavia,2016,11.2
+Mittelklasse,Tesla Model 3,2023,1.2
+Mittelklasse,Tesla Model 3,2022,0.7
+Mittelklasse,Tesla Model 3,2021,1.4
+Mittelklasse,Tesla Model 3,2020,3.7
+Mittelklasse,Tesla Model 3,2019,8.0
+Mittelklasse,Tesla Model Y,2023,0.7
+Mittelklasse,Tesla Model Y,2022,1.2
+Mittelklasse,Toyota RAV4,2022,31.0
+Mittelklasse,Toyota RAV4,2021,38.4
+Mittelklasse,Toyota RAV4,2020,53.7
+Mittelklasse,Toyota RAV4,2019,51.7
+Mittelklasse,Toyota RAV4,2018,43.2
+Mittelklasse,Toyota RAV4,2017,42.9
+Mittelklasse,Toyota RAV4,2016,33.3
+Mittelklasse,VW ID.4,2023,0.8
+Mittelklasse,VW ID.4,2022,1.0
+Mittelklasse,VW ID.4,2021,2.3
+Mittelklasse,VW Passat,2023,1.6
+Mittelklasse,VW Passat,2022,4.1
+Mittelklasse,VW Passat,2021,7.7
+Mittelklasse,VW Passat,2020,11.6
+Mittelklasse,VW Passat,2019,12.9
+Mittelklasse,VW Passat,2018,13.9
+Mittelklasse,VW Passat,2017,11.9
+Mittelklasse,VW Passat,2016,10.1
+Mittelklasse,VW Sharan,2019,15.6
+Mittelklasse,VW Sharan,2018,24.3
+Mittelklasse,VW Sharan,2017,22.0
+Mittelklasse,VW Sharan,2016,20.1
+Mittelklasse,Volvo XC60,2023,1.8
+Mittelklasse,Volvo XC60,2022,3.0
+Mittelklasse,Volvo XC60,2021,4.5
+Mittelklasse,Volvo XC60,2020,6.0
+Mittelklasse,Volvo XC60,2019,8.4
+Mittelklasse,Volvo XC60,2018,11.4
+Mittelklasse,Volvo XC60,2017,18.2
+Mittelklasse,Volvo XC60,2016,16.1
+Obere Mittelklasse,Audi A6,2023,1.1
+Obere Mittelklasse,Audi A6,2022,3.3
+Obere Mittelklasse,Audi A6,2021,4.9
+Obere Mittelklasse,Audi A6,2020,11.6
+Obere Mittelklasse,Audi A6,2019,16.6
+Obere Mittelklasse,Audi A6,2018,9.7
+Obere Mittelklasse,Audi A6,2017,7.9
+Obere Mittelklasse,Audi A6,2016,9.1
+Obere Mittelklasse,Audi e-tron/Q8 e-tron,2023,1.2
+Obere Mittelklasse,Audi e-tron/Q8 e-tron,2022,1.4
+Obere Mittelklasse,BMW 5er-Reihe,2023,0.8
+Obere Mittelklasse,BMW 5er-Reihe,2022,1.2
+Obere Mittelklasse,BMW 5er-Reihe,2021,4.1
+Obere Mittelklasse,BMW 5er-Reihe,2020,5.9
+Obere Mittelklasse,BMW 5er-Reihe,2019,5.8
+Obere Mittelklasse,BMW 5er-Reihe,2018,8.3
+Obere Mittelklasse,BMW 5er-Reihe,2017,7.6
+Obere Mittelklasse,BMW 5er-Reihe,2016,11.3
+Obere Mittelklasse,BMW X5,2023,1.0
+Obere Mittelklasse,BMW X5,2022,1.9
+Obere Mittelklasse,BMW X5,2021,2.4
+Obere Mittelklasse,BMW X5,2020,6.9
+Obere Mittelklasse,BMW X5,2019,7.2
+Obere Mittelklasse,BMW X5,2018,6.9
+Obere Mittelklasse,BMW X5,2017,8.9
+Obere Mittelklasse,"Fiat Scudo, Opel Vivaro/Zafira Life, Peugeot Expert/Traveller",2023,5.1
+Obere Mittelklasse,"Fiat Scudo, Opel Vivaro/Zafira Life, Peugeot Expert/Traveller",2022,9.0
+Obere Mittelklasse,"Fiat Scudo, Opel Vivaro/Zafira Life, Peugeot Expert/Traveller",2021,15.4
+Obere Mittelklasse,"Fiat Scudo, Opel Vivaro/Zafira Life, Peugeot Expert/Traveller",2020,27.0
+Obere Mittelklasse,"Fiat Scudo, Opel Vivaro/Zafira Life, Peugeot Expert/Traveller",2019,29.8
+Obere Mittelklasse,"Fiat Scudo, Opel Vivaro/Zafira Life, Peugeot Expert/Traveller",2018,26.2
+Obere Mittelklasse,"Fiat Scudo, Opel Vivaro/Zafira Life, Peugeot Expert/Traveller",2017,22.8
+Obere Mittelklasse,"Fiat Scudo, Opel Vivaro/Zafira Life, Peugeot Expert/Traveller",2016,21.3
+Obere Mittelklasse,Ford Nugget/Tourneo Custom/Transit Custom,2023,5.8
+Obere Mittelklasse,Ford Nugget/Tourneo Custom/Transit Custom,2022,7.0
+Obere Mittelklasse,Ford Nugget/Tourneo Custom/Transit Custom,2021,8.1
+Obere Mittelklasse,Ford Nugget/Tourneo Custom/Transit Custom,2020,11.6
+Obere Mittelklasse,Ford Nugget/Tourneo Custom/Transit Custom,2019,16.1
+Obere Mittelklasse,Ford Nugget/Tourneo Custom/Transit Custom,2018,24.2
+Obere Mittelklasse,Ford Nugget/Tourneo Custom/Transit Custom,2017,10.6
+Obere Mittelklasse,Ford Nugget/Tourneo Custom/Transit Custom,2016,21.1
+Obere Mittelklasse,Ford Ranger,2023,5.6
+Obere Mittelklasse,Ford Ranger,2022,6.4
+Obere Mittelklasse,Ford Ranger,2021,17.3
+Obere Mittelklasse,Ford Ranger,2020,16.9
+Obere Mittelklasse,Ford Ranger,2019,13.7
+Obere Mittelklasse,Ford Ranger,2018,14.0
+Obere Mittelklasse,Ford Ranger,2017,12.1
+Obere Mittelklasse,Ford Ranger,2016,19.0
+Obere Mittelklasse,Mercedes-Benz E-Klasse,2023,1.8
+Obere Mittelklasse,Mercedes-Benz E-Klasse,2022,2.9
+Obere Mittelklasse,Mercedes-Benz E-Klasse,2021,4.3
+Obere Mittelklasse,Mercedes-Benz E-Klasse,2020,6.0
+Obere Mittelklasse,Mercedes-Benz E-Klasse,2019,8.0
+Obere Mittelklasse,Mercedes-Benz E-Klasse,2018,10.4
+Obere Mittelklasse,Mercedes-Benz E-Klasse,2017,11.7
+Obere Mittelklasse,Mercedes-Benz E-Klasse,2016,19.2
+Obere Mittelklasse,Mercedes-Benz GLE,2023,1.9
+Obere Mittelklasse,Mercedes-Benz GLE,2022,1.9
+Obere Mittelklasse,Mercedes-Benz GLE,2021,4.1
+Obere Mittelklasse,Mercedes-Benz GLE,2020,8.4
+Obere Mittelklasse,Mercedes-Benz GLE,2019,11.9
+Obere Mittelklasse,Mercedes-Benz GLE,2018,12.1
+Obere Mittelklasse,Mercedes-Benz GLE,2017,14.6
+Obere Mittelklasse,Mercedes-Benz GLE,2016,14.1
+Obere Mittelklasse,Mercedes-Benz V-Klasse/Vito,2023,3.7
+Obere Mittelklasse,Mercedes-Benz V-Klasse/Vito,2022,5.7
+Obere Mittelklasse,Mercedes-Benz V-Klasse/Vito,2021,7.4
+Obere Mittelklasse,Mercedes-Benz V-Klasse/Vito,2020,11.9
+Obere Mittelklasse,Mercedes-Benz V-Klasse/Vito,2019,16.1
+Obere Mittelklasse,Mercedes-Benz V-Klasse/Vito,2018,13.1
+Obere Mittelklasse,Mercedes-Benz V-Klasse/Vito,2017,13.6
+Obere Mittelklasse,Mercedes-Benz V-Klasse/Vito,2016,14.1
+Obere Mittelklasse,Renault Trafic,2023,4.8
+Obere Mittelklasse,Renault Trafic,2022,10.3
+Obere Mittelklasse,Renault Trafic,2021,15.2
+Obere Mittelklasse,Renault Trafic,2020,19.3
+Obere Mittelklasse,Renault Trafic,2019,24.0
+Obere Mittelklasse,Renault Trafic,2018,15.2
+Obere Mittelklasse,Renault Trafic,2017,16.8
+Obere Mittelklasse,Renault Trafic,2016,20.5
+Obere Mittelklasse,Skoda Superb,2023,8.5
+Obere Mittelklasse,Skoda Superb,2022,9.6
+Obere Mittelklasse,Skoda Superb,2021,11.4
+Obere Mittelklasse,Skoda Superb,2020,14.2
+Obere Mittelklasse,Skoda Superb,2019,16.3
+Obere Mittelklasse,Skoda Superb,2018,14.9
+Obere Mittelklasse,Skoda Superb,2017,11.2
+Obere Mittelklasse,Skoda Superb,2016,13.4
+Obere Mittelklasse,VW Arteon,2023,1.6
+Obere Mittelklasse,VW Arteon,2022,4.0
+Obere Mittelklasse,VW Arteon,2021,8.4
+Obere Mittelklasse,VW Nutzfahrzeuge Transporter,2023,7.5
+Obere Mittelklasse,VW Nutzfahrzeuge Transporter,2022,9.6
+Obere Mittelklasse,VW Nutzfahrzeuge Transporter,2021,9.2
+Obere Mittelklasse,VW Nutzfahrzeuge Transporter,2020,10.9
+Obere Mittelklasse,VW Nutzfahrzeuge Transporter,2019,11.4
+Obere Mittelklasse,VW Nutzfahrzeuge Transporter,2018,10.7
+Obere Mittelklasse,VW Nutzfahrzeuge Transporter,2017,15.4
+Obere Mittelklasse,VW Nutzfahrzeuge Transporter,2016,16.0
+Untere Mittelklasse,Audi A3,2023,1.5
+Untere Mittelklasse,Audi A3,2022,4.3
+Untere Mittelklasse,Audi A3,2021,7.7
+Untere Mittelklasse,Audi A3,2020,7.2
+Untere Mittelklasse,Audi A3,2019,6.1
+Untere Mittelklasse,Audi A3,2018,9.7
+Untere Mittelklasse,Audi A3,2017,9.3
+Untere Mittelklasse,Audi A3,2016,9.9
+Untere Mittelklasse,Audi Q2,2023,1.5
+Untere Mittelklasse,Audi Q2,2022,1.7
+Untere Mittelklasse,Audi Q2,2021,4.2
+Untere Mittelklasse,Audi Q2,2020,4.7
+Untere Mittelklasse,Audi Q2,2019,7.7
+Untere Mittelklasse,Audi Q2,2018,10.3
+Untere Mittelklasse,Audi Q2,2017,7.1
+Untere Mittelklasse,Audi Q3,2023,1.6
+Untere Mittelklasse,Audi Q3,2022,3.3
+Untere Mittelklasse,Audi Q3,2021,4.9
+Untere Mittelklasse,Audi Q3,2020,6.1
+Untere Mittelklasse,Audi Q3,2019,7.8
+Untere Mittelklasse,Audi Q3,2018,11.9
+Untere Mittelklasse,Audi Q3,2017,7.4
+Untere Mittelklasse,Audi Q3,2016,8.4
+Untere Mittelklasse,BMW 1er-Reihe,2023,0.6
+Untere Mittelklasse,BMW 1er-Reihe,2022,1.3
+Untere Mittelklasse,BMW 1er-Reihe,2021,2.8
+Untere Mittelklasse,BMW 1er-Reihe,2020,6.1
+Untere Mittelklasse,BMW 1er-Reihe,2019,7.0
+Untere Mittelklasse,BMW 1er-Reihe,2018,6.4
+Untere Mittelklasse,BMW 1er-Reihe,2017,6.4
+Untere Mittelklasse,BMW 1er-Reihe,2016,8.4
+Untere Mittelklasse,BMW 2er-Reihe/2er-Reihe Active/Gran Tourer,2023,1.0
+Untere Mittelklasse,BMW 2er-Reihe/2er-Reihe Active/Gran Tourer,2022,1.6
+Untere Mittelklasse,BMW 2er-Reihe/2er-Reihe Active/Gran Tourer,2021,3.1
+Untere Mittelklasse,BMW 2er-Reihe/2er-Reihe Active/Gran Tourer,2020,4.6
+Untere Mittelklasse,BMW 2er-Reihe/2er-Reihe Active/Gran Tourer,2019,7.9
+Untere Mittelklasse,BMW 2er-Reihe/2er-Reihe Active/Gran Tourer,2018,11.6
+Untere Mittelklasse,BMW 2er-Reihe/2er-Reihe Active/Gran Tourer,2017,12.2
+Untere Mittelklasse,BMW 2er-Reihe/2er-Reihe Active/Gran Tourer,2016,13.3
+Untere Mittelklasse,BMW X1,2023,1.9
+Untere Mittelklasse,BMW X1,2022,2.0
+Untere Mittelklasse,BMW X1,2021,2.4
+Untere Mittelklasse,BMW X1,2020,4.1
+Untere Mittelklasse,BMW X1,2019,7.8
+Untere Mittelklasse,BMW X1,2018,15.3
+Untere Mittelklasse,BMW X1,2017,15.0
+Untere Mittelklasse,BMW X1,2016,15.7
+Untere Mittelklasse,BMW X2,2022,0.8
+Untere Mittelklasse,BMW X2,2021,3.4
+Untere Mittelklasse,BMW X2,2020,4.3
+Untere Mittelklasse,BMW X2,2019,8.5
+Untere Mittelklasse,BMW X2,2018,12.2
+Untere Mittelklasse,BMW iX1,2023,0.5
+Untere Mittelklasse,CUPRA Born,2023,0.4
+Untere Mittelklasse,CUPRA Born,2022,1.7
+Untere Mittelklasse,CUPRA Formentor,2023,1.5
+Untere Mittelklasse,CUPRA Formentor,2022,3.2
+Untere Mittelklasse,CUPRA Formentor,2021,6.8
+Untere Mittelklasse,CUPRA Leon,2023,1.7
+Untere Mittelklasse,CUPRA Leon,2022,1.8
+Untere Mittelklasse,"Citroen Berlingo, Fiat Doblò, Peugeot Partner/Rifter",2023,4.1
+Untere Mittelklasse,"Citroen Berlingo, Fiat Doblò, Peugeot Partner/Rifter",2022,6.5
+Untere Mittelklasse,"Citroen Berlingo, Fiat Doblò, Peugeot Partner/Rifter",2021,10.8
+Untere Mittelklasse,"Citroen Berlingo, Fiat Doblò, Peugeot Partner/Rifter",2020,18.7
+Untere Mittelklasse,"Citroen Berlingo, Fiat Doblò, Peugeot Partner/Rifter",2019,21.1
+Untere Mittelklasse,"Citroen Berlingo, Fiat Doblò, Peugeot Partner/Rifter",2018,15.4
+Untere Mittelklasse,"Citroen Berlingo, Fiat Doblò, Peugeot Partner/Rifter",2017,18.2
+Untere Mittelklasse,"Citroen Berlingo, Fiat Doblò, Peugeot Partner/Rifter",2016,20.7
+Untere Mittelklasse,Dacia Dokker/Lodgy,2021,11.9
+Untere Mittelklasse,Dacia Dokker/Lodgy,2020,12.4
+Untere Mittelklasse,Dacia Dokker/Lodgy,2019,12.5
+Untere Mittelklasse,Dacia Dokker/Lodgy,2018,17.1
+Untere Mittelklasse,Dacia Dokker/Lodgy,2017,21.6
+Untere Mittelklasse,Dacia Dokker/Lodgy,2016,23.0
+Untere Mittelklasse,Dacia Jogger,2023,13.4
+Untere Mittelklasse,Dacia Jogger,2022,13.3
+Untere Mittelklasse,Fiat Tipo,2020,9.4
+Untere Mittelklasse,Fiat Tipo,2019,11.3
+Untere Mittelklasse,Fiat Tipo,2018,18.5
+Untere Mittelklasse,Fiat Tipo,2017,23.1
+Untere Mittelklasse,Fiat Tipo,2016,25.1
+Untere Mittelklasse,Ford C-MAX,2019,14.8
+Untere Mittelklasse,Ford C-MAX,2018,21.0
+Untere Mittelklasse,Ford C-MAX,2017,22.6
+Untere Mittelklasse,Ford C-MAX,2016,26.0
+Untere Mittelklasse,Ford Focus,2023,7.9
+Untere Mittelklasse,Ford Focus,2022,16.9
+Untere Mittelklasse,Ford Focus,2021,16.0
+Untere Mittelklasse,Ford Focus,2020,19.3
+Untere Mittelklasse,Ford Focus,2019,19.9
+Untere Mittelklasse,Ford Focus,2018,24.9
+Untere Mittelklasse,Ford Focus,2017,21.5
+Untere Mittelklasse,Ford Focus,2016,26.2
+Untere Mittelklasse,Ford Kuga,2023,5.6
+Untere Mittelklasse,Ford Kuga,2022,19.5
+Untere Mittelklasse,Ford Kuga,2021,42.6
+Untere Mittelklasse,Ford Kuga,2020,35.0
+Untere Mittelklasse,Ford Kuga,2019,20.1
+Untere Mittelklasse,Ford Kuga,2018,24.5
+Untere Mittelklasse,Ford Kuga,2017,24.6
+Untere Mittelklasse,Ford Kuga,2016,22.7
+Untere Mittelklasse,Ford Tourneo Connect/Transit Connect,2023,5.7
+Untere Mittelklasse,Ford Tourneo Connect/Transit Connect,2022,7.1
+Untere Mittelklasse,Ford Tourneo Connect/Transit Connect,2021,7.9
+Untere Mittelklasse,Ford Tourneo Connect/Transit Connect,2020,11.7
+Untere Mittelklasse,Ford Tourneo Connect/Transit Connect,2019,15.4
+Untere Mittelklasse,Ford Tourneo Connect/Transit Connect,2018,22.9
+Untere Mittelklasse,Ford Tourneo Connect/Transit Connect,2017,15.8
+Untere Mittelklasse,Ford Tourneo Connect/Transit Connect,2016,20.4
+Untere Mittelklasse,Hyundai Tucson,2023,6.0
+Untere Mittelklasse,Hyundai Tucson,2022,10.5
+Untere Mittelklasse,Hyundai Tucson,2021,12.9
+Untere Mittelklasse,Hyundai Tucson,2020,10.6
+Untere Mittelklasse,Hyundai Tucson,2019,9.9
+Untere Mittelklasse,Hyundai Tucson,2018,10.5
+Untere Mittelklasse,Hyundai Tucson,2017,14.0
+Untere Mittelklasse,Hyundai Tucson,2016,17.9
+Untere Mittelklasse,Hyundai i30,2023,2.7
+Untere Mittelklasse,Hyundai i30,2022,5.6
+Untere Mittelklasse,Hyundai i30,2021,8.1
+Untere Mittelklasse,Hyundai i30,2020,12.2
+Untere Mittelklasse,Hyundai i30,2019,16.0
+Untere Mittelklasse,Hyundai i30,2018,15.6
+Untere Mittelklasse,Hyundai i30,2017,13.8
+Untere Mittelklasse,Hyundai i30,2016,14.0
+Untere Mittelklasse,Kia Ceed/XCeed,2023,2.7
+Untere Mittelklasse,Kia Ceed/XCeed,2022,5.3
+Untere Mittelklasse,Kia Ceed/XCeed,2021,7.1
+Untere Mittelklasse,Kia Ceed/XCeed,2020,8.7
+Untere Mittelklasse,Kia Ceed/XCeed,2019,7.7
+Untere Mittelklasse,Kia Ceed/XCeed,2018,13.6
+Untere Mittelklasse,Kia Ceed/XCeed,2017,17.9
+Untere Mittelklasse,Kia Ceed/XCeed,2016,18.6
+Untere Mittelklasse,Kia Sportage,2023,7.4
+Untere Mittelklasse,Kia Sportage,2022,12.1
+Untere Mittelklasse,Kia Sportage,2021,10.6
+Untere Mittelklasse,Kia Sportage,2020,13.9
+Untere Mittelklasse,Kia Sportage,2019,10.6
+Untere Mittelklasse,Kia Sportage,2018,12.8
+Untere Mittelklasse,Kia Sportage,2017,19.9
+Untere Mittelklasse,Kia Sportage,2016,23.7
+Untere Mittelklasse,MG MG4,2023,5.5
+Untere Mittelklasse,Mazda 3,2020,36.7
+Untere Mittelklasse,Mazda 3,2019,32.2
+Untere Mittelklasse,Mazda 3,2018,6.8
+Untere Mittelklasse,Mazda 3,2017,9.3
+Untere Mittelklasse,Mazda 3,2016,12.4
+Untere Mittelklasse,Mazda CX-30,2023,4.8
+Untere Mittelklasse,Mazda CX-30,2022,14.6
+Untere Mittelklasse,Mazda CX-30,2021,25.2
+Untere Mittelklasse,Mazda CX-30,2020,43.5
+Untere Mittelklasse,Mazda CX-5,2023,2.7
+Untere Mittelklasse,Mazda CX-5,2022,2.0
+Untere Mittelklasse,Mazda CX-5,2021,8.8
+Untere Mittelklasse,Mazda CX-5,2020,8.3
+Untere Mittelklasse,Mazda CX-5,2019,9.5
+Untere Mittelklasse,Mazda CX-5,2018,11.3
+Untere Mittelklasse,Mazda CX-5,2017,13.2
+Untere Mittelklasse,Mazda CX-5,2016,13.5
+Untere Mittelklasse,Mercedes-Benz A-Klasse,2023,2.0
+Untere Mittelklasse,Mercedes-Benz A-Klasse,2022,2.4
+Untere Mittelklasse,Mercedes-Benz A-Klasse,2021,3.5
+Untere Mittelklasse,Mercedes-Benz A-Klasse,2020,5.3
+Untere Mittelklasse,Mercedes-Benz A-Klasse,2019,9.1
+Untere Mittelklasse,Mercedes-Benz A-Klasse,2018,14.4
+Untere Mittelklasse,Mercedes-Benz A-Klasse,2017,14.8
+Untere Mittelklasse,Mercedes-Benz A-Klasse,2016,13.4
+Untere Mittelklasse,Mercedes-Benz B-Klasse,2023,1.7
+Untere Mittelklasse,Mercedes-Benz B-Klasse,2022,2.9
+Untere Mittelklasse,Mercedes-Benz B-Klasse,2021,3.1
+Untere Mittelklasse,Mercedes-Benz B-Klasse,2020,4.8
+Untere Mittelklasse,Mercedes-Benz B-Klasse,2019,7.4
+Untere Mittelklasse,Mercedes-Benz B-Klasse,2018,13.3
+Untere Mittelklasse,Mercedes-Benz B-Klasse,2017,15.7
+Untere Mittelklasse,Mercedes-Benz B-Klasse,2016,13.2
+Untere Mittelklasse,Mercedes-Benz CLA,2023,2.6
+Untere Mittelklasse,Mercedes-Benz CLA,2022,2.1
+Untere Mittelklasse,Mercedes-Benz CLA,2021,3.9
+Untere Mittelklasse,Mercedes-Benz CLA,2020,6.3
+Untere Mittelklasse,Mercedes-Benz CLA,2019,12.7
+Untere Mittelklasse,Mercedes-Benz CLA,2018,18.8
+Untere Mittelklasse,Mercedes-Benz CLA,2017,20.6
+Untere Mittelklasse,Mercedes-Benz CLA,2016,16.5
+Untere Mittelklasse,Mercedes-Benz Citan,2023,1.7
+Untere Mittelklasse,Mercedes-Benz Citan,2022,6.4
+Untere Mittelklasse,Mercedes-Benz Citan,2020,19.1
+Untere Mittelklasse,Mercedes-Benz Citan,2019,16.3
+Untere Mittelklasse,Mercedes-Benz Citan,2018,23.8
+Untere Mittelklasse,Mercedes-Benz Citan,2017,25.9
+Untere Mittelklasse,Mercedes-Benz Citan,2016,22.8
+Untere Mittelklasse,Mercedes-Benz EQA,2023,1.4
+Untere Mittelklasse,Mercedes-Benz EQA,2022,1.3
+Untere Mittelklasse,Mercedes-Benz GLA,2023,0.6
+Untere Mittelklasse,Mercedes-Benz GLA,2022,2.6
+Untere Mittelklasse,Mercedes-Benz GLA,2021,2.1
+Untere Mittelklasse,Mercedes-Benz GLA,2020,4.5
+Untere Mittelklasse,Mercedes-Benz GLA,2019,7.1
+Untere Mittelklasse,Mercedes-Benz GLA,2018,12.0
+Untere Mittelklasse,Mercedes-Benz GLA,2017,17.2
+Untere Mittelklasse,Mercedes-Benz GLA,2016,17.2
+Untere Mittelklasse,Mitsubishi ASX,2020,3.4
+Untere Mittelklasse,Mitsubishi ASX,2019,3.4
+Untere Mittelklasse,Mitsubishi ASX,2018,4.8
+Untere Mittelklasse,Mitsubishi ASX,2017,6.9
+Untere Mittelklasse,Mitsubishi ASX,2016,9.6
+Untere Mittelklasse,Mitsubishi Eclipse Cross,2022,1.5
+Untere Mittelklasse,Mitsubishi Eclipse Cross,2021,4.9
+Untere Mittelklasse,Mitsubishi Eclipse Cross,2020,5.7
+Untere Mittelklasse,Mitsubishi Eclipse Cross,2019,11.0
+Untere Mittelklasse,Mitsubishi Eclipse Cross,2018,8.6
+Untere Mittelklasse,Nissan Qashqai,2023,11.3
+Untere Mittelklasse,Nissan Qashqai,2022,11.4
+Untere Mittelklasse,Nissan Qashqai,2021,13.6
+Untere Mittelklasse,Nissan Qashqai,2020,28.6
+Untere Mittelklasse,Nissan Qashqai,2019,33.3
+Untere Mittelklasse,Nissan Qashqai,2018,24.6
+Untere Mittelklasse,Nissan Qashqai,2017,24.8
+Untere Mittelklasse,Nissan Qashqai,2016,28.3
+Untere Mittelklasse,Opel Astra,2023,5.9
+Untere Mittelklasse,Opel Astra,2022,10.3
+Untere Mittelklasse,Opel Astra,2021,14.6
+Untere Mittelklasse,Opel Astra,2020,13.8
+Untere Mittelklasse,Opel Astra,2019,12.0
+Untere Mittelklasse,Opel Astra,2018,14.4
+Untere Mittelklasse,Opel Astra,2017,12.7
+Untere Mittelklasse,Opel Astra,2016,15.8
+Untere Mittelklasse,Opel Combo,2023,2.9
+Untere Mittelklasse,Opel Combo,2022,5.8
+Untere Mittelklasse,Opel Combo,2021,10.2
+Untere Mittelklasse,Opel Combo,2020,15.8
+Untere Mittelklasse,Opel Combo,2019,18.7
+Untere Mittelklasse,Opel Grandland,2023,4.7
+Untere Mittelklasse,Opel Grandland,2022,5.0
+Untere Mittelklasse,Opel Grandland,2021,9.1
+Untere Mittelklasse,Opel Grandland,2020,14.6
+Untere Mittelklasse,Opel Grandland,2019,17.8
+Untere Mittelklasse,Opel Grandland,2018,24.9
+Untere Mittelklasse,Opel Zafira,2019,16.5
+Untere Mittelklasse,Opel Zafira,2018,22.5
+Untere Mittelklasse,Opel Zafira,2017,25.6
+Untere Mittelklasse,Opel Zafira,2016,28.7
+Untere Mittelklasse,Peugeot 3008,2023,2.5
+Untere Mittelklasse,Peugeot 3008,2022,5.0
+Untere Mittelklasse,Peugeot 3008,2021,13.0
+Untere Mittelklasse,Peugeot 3008,2020,17.2
+Untere Mittelklasse,Peugeot 3008,2019,15.5
+Untere Mittelklasse,Peugeot 3008,2018,28.9
+Untere Mittelklasse,Peugeot 3008,2017,28.0
+Untere Mittelklasse,Peugeot 308,2023,7.7
+Untere Mittelklasse,Peugeot 308,2022,8.7
+Untere Mittelklasse,Peugeot 308,2019,20.2
+Untere Mittelklasse,Peugeot 308,2018,24.2
+Untere Mittelklasse,Peugeot 308,2017,32.0
+Untere Mittelklasse,Peugeot 308,2016,30.3
+Untere Mittelklasse,Renault Austral,2023,3.0
+Untere Mittelklasse,Renault Kadjar,2020,19.3
+Untere Mittelklasse,Renault Kadjar,2019,22.1
+Untere Mittelklasse,Renault Kadjar,2018,18.3
+Untere Mittelklasse,Renault Kadjar,2017,28.0
+Untere Mittelklasse,Renault Kadjar,2016,25.9
+Untere Mittelklasse,Renault Kangoo,2023,5.4
+Untere Mittelklasse,Renault Kangoo,2022,6.9
+Untere Mittelklasse,Renault Kangoo,2021,9.3
+Untere Mittelklasse,Renault Kangoo,2020,16.8
+Untere Mittelklasse,Renault Kangoo,2019,14.7
+Untere Mittelklasse,Renault Kangoo,2018,19.7
+Untere Mittelklasse,Renault Kangoo,2017,23.1
+Untere Mittelklasse,Renault Kangoo,2016,24.2
+Untere Mittelklasse,Renault Mégane,2023,1.6
+Untere Mittelklasse,Renault Mégane,2022,2.0
+Untere Mittelklasse,Renault Mégane,2020,16.5
+Untere Mittelklasse,Renault Mégane,2019,26.2
+Untere Mittelklasse,Renault Mégane,2018,29.1
+Untere Mittelklasse,Renault Mégane,2017,33.0
+Untere Mittelklasse,Renault Mégane,2016,34.6
+Untere Mittelklasse,Renault Scénic,2019,43.7
+Untere Mittelklasse,Renault Scénic,2018,33.9
+Untere Mittelklasse,Renault Scénic,2017,33.1
+Untere Mittelklasse,SEAT Ateca,2023,1.5
+Untere Mittelklasse,SEAT Ateca,2022,3.6
+Untere Mittelklasse,SEAT Ateca,2021,5.3
+Untere Mittelklasse,SEAT Ateca,2020,5.7
+Untere Mittelklasse,SEAT Ateca,2019,6.9
+Untere Mittelklasse,SEAT Ateca,2018,8.8
+Untere Mittelklasse,SEAT Ateca,2017,9.0
+Untere Mittelklasse,SEAT Ateca,2016,14.1
+Untere Mittelklasse,SEAT Leon,2023,2.4
+Untere Mittelklasse,SEAT Leon,2022,5.3
+Untere Mittelklasse,SEAT Leon,2021,8.3
+Untere Mittelklasse,SEAT Leon,2020,8.3
+Untere Mittelklasse,SEAT Leon,2019,6.9
+Untere Mittelklasse,SEAT Leon,2018,9.2
+Untere Mittelklasse,SEAT Leon,2017,8.7
+Untere Mittelklasse,SEAT Leon,2016,7.6
+Untere Mittelklasse,Skoda Karoq,2023,3.5
+Untere Mittelklasse,Skoda Karoq,2022,3.7
+Untere Mittelklasse,Skoda Karoq,2021,4.9
+Untere Mittelklasse,Skoda Karoq,2020,5.5
+Untere Mittelklasse,Skoda Karoq,2019,7.9
+Untere Mittelklasse,Skoda Karoq,2018,9.7
+Untere Mittelklasse,Skoda Rapid,2019,9.1
+Untere Mittelklasse,Skoda Rapid,2018,6.2
+Untere Mittelklasse,Skoda Rapid,2017,7.6
+Untere Mittelklasse,Skoda Rapid,2016,9.2
+Untere Mittelklasse,Skoda Scala,2023,3.7
+Untere Mittelklasse,Skoda Scala,2022,4.3
+Untere Mittelklasse,Skoda Scala,2021,5.0
+Untere Mittelklasse,Skoda Scala,2020,6.4
+Untere Mittelklasse,Skoda Scala,2019,6.5
+Untere Mittelklasse,Toyota Auris,2018,25.5
+Untere Mittelklasse,Toyota Auris,2017,20.0
+Untere Mittelklasse,Toyota Auris,2016,19.5
+Untere Mittelklasse,Toyota C-HR,2023,11.8
+Untere Mittelklasse,Toyota C-HR,2022,33.2
+Untere Mittelklasse,Toyota C-HR,2021,61.0
+Untere Mittelklasse,Toyota C-HR,2020,56.3
+Untere Mittelklasse,Toyota C-HR,2019,31.3
+Untere Mittelklasse,Toyota C-HR,2018,27.7
+Untere Mittelklasse,Toyota C-HR,2017,23.3
+Untere Mittelklasse,Toyota Corolla,2023,24.4
+Untere Mittelklasse,Toyota Corolla,2022,15.2
+Untere Mittelklasse,Toyota Corolla,2021,21.4
+Untere Mittelklasse,Toyota Corolla,2020,20.3
+Untere Mittelklasse,Toyota Corolla,2019,24.2
+Untere Mittelklasse,VW Beetle,2018,9.7
+Untere Mittelklasse,VW Beetle,2017,10.7
+Untere Mittelklasse,VW Beetle,2016,6.1
+Untere Mittelklasse,VW Golf,2023,2.0
+Untere Mittelklasse,VW Golf,2022,5.2
+Untere Mittelklasse,VW Golf,2021,9.6
+Untere Mittelklasse,VW Golf,2020,6.9
+Untere Mittelklasse,VW Golf,2019,7.1
+Untere Mittelklasse,VW Golf,2018,8.6
+Untere Mittelklasse,VW Golf,2017,9.8
+Untere Mittelklasse,VW Golf,2016,9.3
+Untere Mittelklasse,VW ID.3,2023,0.7
+Untere Mittelklasse,VW ID.3,2022,1.3
+Untere Mittelklasse,VW ID.3,2021,1.9
+Untere Mittelklasse,VW ID.3,2020,3.5
+Untere Mittelklasse,VW Nutzfahrzeuge Caddy,2023,3.7
+Untere Mittelklasse,VW Nutzfahrzeuge Caddy,2022,6.2
+Untere Mittelklasse,VW Nutzfahrzeuge Caddy,2021,8.2
+Untere Mittelklasse,VW Nutzfahrzeuge Caddy,2020,5.9
+Untere Mittelklasse,VW Nutzfahrzeuge Caddy,2019,6.6
+Untere Mittelklasse,VW Nutzfahrzeuge Caddy,2018,8.9
+Untere Mittelklasse,VW Nutzfahrzeuge Caddy,2017,10.2
+Untere Mittelklasse,VW Nutzfahrzeuge Caddy,2016,10.0
+Untere Mittelklasse,VW T-Roc,2023,1.6
+Untere Mittelklasse,VW T-Roc,2022,2.2
+Untere Mittelklasse,VW T-Roc,2021,3.8
+Untere Mittelklasse,VW T-Roc,2020,3.7
+Untere Mittelklasse,VW T-Roc,2019,4.8
+Untere Mittelklasse,VW T-Roc,2018,5.9
+Untere Mittelklasse,VW Tiguan,2023,3.1
+Untere Mittelklasse,VW Tiguan,2022,5.0
+Untere Mittelklasse,VW Tiguan,2021,11.3
+Untere Mittelklasse,VW Tiguan,2020,9.3
+Untere Mittelklasse,VW Tiguan,2019,10.7
+Untere Mittelklasse,VW Tiguan,2018,14.0
+Untere Mittelklasse,VW Tiguan,2017,11.8
+Untere Mittelklasse,VW Tiguan,2016,13.1
+Untere Mittelklasse,VW Touran,2023,4.5
+Untere Mittelklasse,VW Touran,2022,5.8
+Untere Mittelklasse,VW Touran,2021,9.8
+Untere Mittelklasse,VW Touran,2020,9.3
+Untere Mittelklasse,VW Touran,2019,12.2
+Untere Mittelklasse,VW Touran,2018,12.6
+Untere Mittelklasse,VW Touran,2017,12.2
+Untere Mittelklasse,VW Touran,2016,12.4
+Untere Mittelklasse,Volvo XC40,2023,1.1
+Untere Mittelklasse,Volvo XC40,2022,4.2
+Untere Mittelklasse,Volvo XC40,2021,5.0
+Untere Mittelklasse,Volvo XC40,2020,6.4
+Untere Mittelklasse,Volvo XC40,2019,8.9
+Vans/Transporter,Fiat Ducato,2023,17.1
+Vans/Transporter,Fiat Ducato,2021,39.4
+Vans/Transporter,Fiat Ducato,2020,38.6
+Vans/Transporter,Fiat Ducato,2019,38.4
+Vans/Transporter,Fiat Ducato,2018,34.4
+Vans/Transporter,Fiat Ducato,2017,38.6
+Vans/Transporter,Fiat Ducato,2016,37.9
+Vans/Transporter,Ford Transit,2023,6.6
+Vans/Transporter,Ford Transit,2022,8.9
+Vans/Transporter,Ford Transit,2021,11.1
+Vans/Transporter,Ford Transit,2020,14.9
+Vans/Transporter,Ford Transit,2019,33.0
+Vans/Transporter,Ford Transit,2018,7.8
+Vans/Transporter,Ford Transit,2017,11.6
+Vans/Transporter,Ford Transit,2016,28.0
+Vans/Transporter,Mercedes-Benz Sprinter,2023,1.6
+Vans/Transporter,Mercedes-Benz Sprinter,2022,2.3
+Vans/Transporter,Mercedes-Benz Sprinter,2021,4.2
+Vans/Transporter,Mercedes-Benz Sprinter,2020,6.8
+Vans/Transporter,Mercedes-Benz Sprinter,2019,8.9
+Vans/Transporter,Mercedes-Benz Sprinter,2018,8.9
+Vans/Transporter,Mercedes-Benz Sprinter,2017,9.7
+Vans/Transporter,Mercedes-Benz Sprinter,2016,10.8
+Vans/Transporter,Renault Master,2023,10.2
+Vans/Transporter,Renault Master,2022,14.7
+Vans/Transporter,Renault Master,2021,27.8
+Vans/Transporter,Renault Master,2020,35.4
+Vans/Transporter,Renault Master,2019,34.6
+Vans/Transporter,Renault Master,2018,8.7
+Vans/Transporter,Renault Master,2017,9.8
+Vans/Transporter,Renault Master,2016,17.7
+Vans/Transporter,VW Nutzfahrzeuge Crafter/Grand California,2023,6.2
+Vans/Transporter,VW Nutzfahrzeuge Crafter/Grand California,2022,8.8
+Vans/Transporter,VW Nutzfahrzeuge Crafter/Grand California,2021,10.8
+Vans/Transporter,VW Nutzfahrzeuge Crafter/Grand California,2020,9.7
+Vans/Transporter,VW Nutzfahrzeuge Crafter/Grand California,2019,10.5
+Vans/Transporter,VW Nutzfahrzeuge Crafter/Grand California,2018,12.8
+Vans/Transporter,VW Nutzfahrzeuge Crafter/Grand California,2017,18.3
+Vans/Transporter,VW Nutzfahrzeuge Crafter/Grand California,2016,13.5

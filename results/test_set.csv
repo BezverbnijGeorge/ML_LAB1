@@ -1,0 +1,193 @@
+row_id,age_years,vehicle_class,origin_group,is_high_risk
+6,6,Kleinstwagen,Stellantis,0
+9,9,Kleinstwagen,Stellantis,1
+20,4,Kleinstwagen,Korean,0
+23,7,Kleinstwagen,Korean,1
+30,2,Kleinstwagen,Renault_Dacia_Nissan,0
+43,4,Kleinstwagen,Japanese,0
+44,5,Kleinstwagen,Japanese,0
+45,6,Kleinstwagen,Japanese,0
+51,5,Kleinstwagen,Japanese,0
+59,5,Kleinstwagen,VAG,0
+64,4,Kleinstwagen,MB_Group,0
+71,4,Kleinstwagen,MB_Group,0
+75,8,Kleinstwagen,MB_Group,1
+79,4,Kleinwagen,VAG,0
+83,8,Kleinwagen,VAG,0
+84,9,Kleinwagen,VAG,0
+85,3,Kleinwagen,BMW_Group,0
+93,9,Kleinwagen,Stellantis,1
+97,5,Kleinwagen,Renault_Dacia_Nissan,0
+107,6,Kleinwagen,Ford_Europe,0
+116,7,Kleinwagen,Ford_Europe,0
+118,9,Kleinwagen,Ford_Europe,1
+121,4,Kleinwagen,Ford_Europe,0
+127,6,Kleinwagen,Korean,0
+133,6,Kleinwagen,Korean,0
+134,7,Kleinwagen,Korean,1
+141,3,Kleinwagen,BMW_Group,0
+143,5,Kleinwagen,BMW_Group,0
+152,9,Kleinwagen,Japanese,0
+160,5,Kleinwagen,Japanese,0
+161,6,Kleinwagen,Japanese,0
+169,9,Kleinwagen,Renault_Dacia_Nissan,0
+173,5,Kleinwagen,Stellantis,0
+179,3,Kleinwagen,Stellantis,0
+182,6,Kleinwagen,Stellantis,0
+185,8,Kleinwagen,Stellantis,1
+188,3,Kleinwagen,Stellantis,0
+192,8,Kleinwagen,Stellantis,1
+193,9,Kleinwagen,Stellantis,1
+197,5,Kleinwagen,Stellantis,0
+199,7,Kleinwagen,Stellantis,0
+200,8,Kleinwagen,Stellantis,1
+206,6,Kleinwagen,Stellantis,0
+211,3,Kleinwagen,Renault_Dacia_Nissan,0
+212,4,Kleinwagen,Renault_Dacia_Nissan,0
+214,6,Kleinwagen,Renault_Dacia_Nissan,1
+224,3,Kleinwagen,VAG,0
+229,2,Kleinwagen,VAG,0
+236,9,Kleinwagen,VAG,0
+237,2,Kleinwagen,VAG,0
+238,3,Kleinwagen,VAG,0
+241,6,Kleinwagen,VAG,0
+244,9,Kleinwagen,VAG,0
+245,2,Kleinwagen,VAG,0
+249,8,Kleinwagen,VAG,0
+258,3,Kleinwagen,Japanese,0
+267,4,Kleinwagen,Japanese,1
+268,5,Kleinwagen,Japanese,1
+269,6,Kleinwagen,Japanese,1
+279,6,Kleinwagen,VAG,0
+286,5,Kleinwagen,VAG,0
+292,4,Mittelklasse,VAG,0
+294,6,Mittelklasse,VAG,0
+297,9,Mittelklasse,VAG,0
+299,3,Mittelklasse,VAG,0
+301,5,Mittelklasse,VAG,0
+305,9,Mittelklasse,VAG,0
+306,2,Mittelklasse,VAG,0
+311,5,Mittelklasse,VAG,0
+312,6,Mittelklasse,VAG,0
+320,6,Mittelklasse,BMW_Group,0
+323,9,Mittelklasse,BMW_Group,0
+331,2,Mittelklasse,BMW_Group,0
+334,5,Mittelklasse,BMW_Group,0
+335,6,Mittelklasse,BMW_Group,0
+336,7,Mittelklasse,BMW_Group,0
+341,6,Mittelklasse,Ford_Europe,1
+342,7,Mittelklasse,Ford_Europe,1
+346,7,Mittelklasse,Ford_Europe,1
+350,3,Mittelklasse,Korean,1
+365,4,Mittelklasse,MB_Group,0
+366,5,Mittelklasse,MB_Group,0
+397,2,Mittelklasse,VAG,0
+399,4,Mittelklasse,VAG,1
+406,4,Mittelklasse,VAG,1
+408,6,Mittelklasse,VAG,0
+419,3,Mittelklasse,Japanese,1
+428,4,Mittelklasse,VAG,0
+429,2,Mittelklasse,VAG,0
+430,3,Mittelklasse,VAG,0
+438,7,Mittelklasse,VAG,1
+439,8,Mittelklasse,VAG,1
+451,4,Obere Mittelklasse,VAG,0
+454,7,Obere Mittelklasse,VAG,0
+459,2,Obere Mittelklasse,BMW_Group,0
+461,4,Obere Mittelklasse,BMW_Group,0
+466,9,Obere Mittelklasse,BMW_Group,0
+476,4,Obere Mittelklasse,Stellantis,1
+497,9,Obere Mittelklasse,Ford_Europe,1
+501,5,Obere Mittelklasse,MB_Group,0
+505,9,Obere Mittelklasse,MB_Group,1
+506,2,Obere Mittelklasse,MB_Group,0
+507,3,Obere Mittelklasse,MB_Group,0
+509,5,Obere Mittelklasse,MB_Group,0
+512,8,Obere Mittelklasse,MB_Group,0
+525,5,Obere Mittelklasse,Renault_Dacia_Nissan,1
+529,9,Obere Mittelklasse,Renault_Dacia_Nissan,1
+531,3,Obere Mittelklasse,VAG,0
+536,8,Obere Mittelklasse,VAG,0
+539,3,Obere Mittelklasse,VAG,0
+541,2,Obere Mittelklasse,VAG,0
+545,6,Obere Mittelklasse,VAG,0
+553,6,Untere Mittelklasse,VAG,0
+556,9,Untere Mittelklasse,VAG,0
+559,4,Untere Mittelklasse,VAG,0
+562,7,Untere Mittelklasse,VAG,0
+568,6,Untere Mittelklasse,VAG,0
+569,7,Untere Mittelklasse,VAG,0
+570,8,Untere Mittelklasse,VAG,0
+572,2,Untere Mittelklasse,BMW_Group,0
+580,2,Untere Mittelklasse,BMW_Group,0
+582,4,Untere Mittelklasse,BMW_Group,0
+584,6,Untere Mittelklasse,BMW_Group,0
+585,7,Untere Mittelklasse,BMW_Group,0
+587,9,Untere Mittelklasse,BMW_Group,0
+594,8,Untere Mittelklasse,BMW_Group,0
+598,5,Untere Mittelklasse,BMW_Group,0
+601,2,Untere Mittelklasse,BMW_Group,0
+603,3,Untere Mittelklasse,VAG,0
+604,2,Untere Mittelklasse,VAG,0
+606,4,Untere Mittelklasse,VAG,0
+608,3,Untere Mittelklasse,VAG,0
+613,6,Untere Mittelklasse,Stellantis,1
+628,8,Untere Mittelklasse,Stellantis,1
+629,9,Untere Mittelklasse,Stellantis,1
+631,7,Untere Mittelklasse,Ford_Europe,1
+655,7,Untere Mittelklasse,Ford_Europe,1
+670,6,Untere Mittelklasse,Korean,1
+671,7,Untere Mittelklasse,Korean,1
+703,5,Untere Mittelklasse,Japanese,0
+704,6,Untere Mittelklasse,Japanese,0
+715,9,Untere Mittelklasse,MB_Group,0
+721,7,Untere Mittelklasse,MB_Group,0
+724,2,Untere Mittelklasse,MB_Group,0
+726,4,Untere Mittelklasse,MB_Group,0
+734,5,Untere Mittelklasse,MB_Group,1
+735,6,Untere Mittelklasse,MB_Group,1
+736,7,Untere Mittelklasse,MB_Group,1
+739,2,Untere Mittelklasse,MB_Group,0
+742,3,Untere Mittelklasse,MB_Group,0
+744,5,Untere Mittelklasse,MB_Group,0
+749,5,Untere Mittelklasse,Japanese,0
+751,7,Untere Mittelklasse,Japanese,0
+761,4,Untere Mittelklasse,Renault_Dacia_Nissan,0
+762,5,Untere Mittelklasse,Renault_Dacia_Nissan,1
+764,7,Untere Mittelklasse,Renault_Dacia_Nissan,1
+772,7,Untere Mittelklasse,Stellantis,0
+774,9,Untere Mittelklasse,Stellantis,1
+777,4,Untere Mittelklasse,Stellantis,0
+779,6,Untere Mittelklasse,Stellantis,1
+780,2,Untere Mittelklasse,Stellantis,0
+782,4,Untere Mittelklasse,Stellantis,0
+790,2,Untere Mittelklasse,Stellantis,0
+793,5,Untere Mittelklasse,Stellantis,1
+795,7,Untere Mittelklasse,Stellantis,1
+800,7,Untere Mittelklasse,Stellantis,1
+806,7,Untere Mittelklasse,Renault_Dacia_Nissan,1
+819,5,Untere Mittelklasse,Renault_Dacia_Nissan,1
+821,7,Untere Mittelklasse,Renault_Dacia_Nissan,1
+829,4,Untere Mittelklasse,VAG,0
+830,5,Untere Mittelklasse,VAG,0
+835,2,Untere Mittelklasse,VAG,0
+837,4,Untere Mittelklasse,VAG,0
+852,9,Untere Mittelklasse,VAG,0
+859,8,Untere Mittelklasse,Japanese,1
+862,3,Untere Mittelklasse,Japanese,1
+866,7,Untere Mittelklasse,Japanese,1
+874,8,Untere Mittelklasse,VAG,0
+877,3,Untere Mittelklasse,VAG,0
+883,9,Untere Mittelklasse,VAG,0
+892,6,Untere Mittelklasse,VAG,0
+893,7,Untere Mittelklasse,VAG,0
+900,6,Untere Mittelklasse,VAG,0
+902,2,Untere Mittelklasse,VAG,0
+907,7,Untere Mittelklasse,VAG,0
+908,8,Untere Mittelklasse,VAG,0
+911,3,Untere Mittelklasse,VAG,0
+918,2,Untere Mittelklasse,Other,0
+940,4,Vans/Transporter,MB_Group,0
+944,8,Vans/Transporter,MB_Group,0
+953,9,Vans/Transporter,Renault_Dacia_Nissan,1
+957,5,Vans/Transporter,VAG,0
