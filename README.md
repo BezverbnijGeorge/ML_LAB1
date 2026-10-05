@@ -1,32 +1,18 @@
 # ADAC cars reliability — логістична регресія
 
-Конвеєр із трьох кроків: збір статистики поломок ADAC, підготовка ознак, навчання й оцінка логістичної регресії, написаної вручну на NumPy (без scikit-learn).
-
 Модель прогнозує бінарну ціль `is_high_risk` — чи перевищує частота поломок авто 15 на 1000 — за трьома ознаками: вік, клас авто, група марок.
-
-## Вимоги
-
-- Python 3.12
-- `pandas`, `numpy` — для підготовки даних, навчання й оцінки
-- `selenium`, `beautifulsoup4`, `webdriver-manager` і встановлений Chrome — лише для збору даних
-
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install pandas numpy selenium beautifulsoup4 webdriver-manager
-```
 
 ## Запуск
 
 Скрипти читають і пишуть файли за відносними шляхами, тому запускати їх треба з кореня репозиторію.
 
 ```bash
-python statistics_parser.py    # 1. збір даних        -> adac_raw_data.csv
-python convert_data.py         # 2. підготовка ознак  -> adac_ml_ready.csv
-python logistic_regresion.py   # 3. навчання й оцінка -> results/
+python statistics_parser.py    # 1. збір даних з сайту -> adac_raw_data.csv
+python convert_data.py         # 2. підготовка ознак   -> adac_ml_ready.csv
+python logistic_regresion.py   # 3. навчання й оцінка  -> results/
 ```
 
-Обидва CSV уже лежать у репозиторії, тож кроки 1 і 2 можна пропустити.
+Кроки 1 і 2 можна пропустити на момент 05.10.2026 в файлах збережена актуальна статистика.
 
 Оцінку можна повторити окремо, без перенавчання — вона читає модель і вибірки з `results/`:
 
@@ -38,9 +24,8 @@ python evaluate_model.py
 
 ### `statistics_parser.py`
 
-Збирає таблицю Pannenstatistik із сайту ADAC через Selenium. Скрипт напівавтоматичний: відкриває Chrome і чекає, поки ви вручну увійдете в акаунт ADAC, закриєте банер cookies і натиснете Enter у консолі. Далі він перебирає всі класи авто у випадаючому списку, розбирає таблицю через BeautifulSoup і переводить її з широкого формату (колонка на рік) у довгий.
-
-Результат — `adac_raw_data.csv`:
+Збирає таблицю Pannenstatistik із сайту ADAC, потрібно зареєструвати в акаунт на сайті.
+Результат зберігається в `adac_raw_data.csv`:
 
 | Колонка | Зміст |
 |---|---|
@@ -48,6 +33,8 @@ python evaluate_model.py
 | `model` | марка і модель |
 | `year` | рік першої реєстрації |
 | `defect_rate` | кількість поломок на 1000 авто |
+
+
 
 ### `convert_data.py`
 
